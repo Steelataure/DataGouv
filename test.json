@@ -1,0 +1,1730 @@
+[
+    {
+        "Hero":"Ana",
+        "Skill Tier":"All",
+        "Pick Rate, %":7.75,
+        "Win Rate, %":48.73
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Bronze",
+        "Pick Rate, %":6.05,
+        "Win Rate, %":47.17
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Diamond",
+        "Pick Rate, %":7.91,
+        "Win Rate, %":48.29
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Gold",
+        "Pick Rate, %":6.01,
+        "Win Rate, %":47.54
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":8.39,
+        "Win Rate, %":48.26
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Master",
+        "Pick Rate, %":8.41,
+        "Win Rate, %":48.03
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Platinum",
+        "Pick Rate, %":7.06,
+        "Win Rate, %":47.94
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Silver",
+        "Pick Rate, %":5.77,
+        "Win Rate, %":47.27
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"All",
+        "Pick Rate, %":2.32,
+        "Win Rate, %":49.72
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Bronze",
+        "Pick Rate, %":2.12,
+        "Win Rate, %":49.24
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Diamond",
+        "Pick Rate, %":2.48,
+        "Win Rate, %":49.77
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Gold",
+        "Pick Rate, %":2.08,
+        "Win Rate, %":49.31
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":2.42,
+        "Win Rate, %":50.12
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Master",
+        "Pick Rate, %":2.42,
+        "Win Rate, %":49.76
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Platinum",
+        "Pick Rate, %":2.29,
+        "Win Rate, %":49.76
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Silver",
+        "Pick Rate, %":2.09,
+        "Win Rate, %":49.24
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"All",
+        "Pick Rate, %":2.0,
+        "Win Rate, %":48.67
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Bronze",
+        "Pick Rate, %":1.74,
+        "Win Rate, %":47.02
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Diamond",
+        "Pick Rate, %":2.02,
+        "Win Rate, %":48.11
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Gold",
+        "Pick Rate, %":1.77,
+        "Win Rate, %":47.88
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":2.08,
+        "Win Rate, %":48.43
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Master",
+        "Pick Rate, %":2.09,
+        "Win Rate, %":48.1
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Platinum",
+        "Pick Rate, %":1.86,
+        "Win Rate, %":48.02
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Silver",
+        "Pick Rate, %":1.68,
+        "Win Rate, %":47.23
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"All",
+        "Pick Rate, %":1.4,
+        "Win Rate, %":48.73
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Bronze",
+        "Pick Rate, %":1.48,
+        "Win Rate, %":48.53
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Diamond",
+        "Pick Rate, %":1.51,
+        "Win Rate, %":48.74
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Gold",
+        "Pick Rate, %":1.37,
+        "Win Rate, %":48.92
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":1.53,
+        "Win Rate, %":48.8
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Master",
+        "Pick Rate, %":1.51,
+        "Win Rate, %":48.82
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Platinum",
+        "Pick Rate, %":1.42,
+        "Win Rate, %":48.84
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Silver",
+        "Pick Rate, %":1.46,
+        "Win Rate, %":48.51
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"All",
+        "Pick Rate, %":1.83,
+        "Win Rate, %":56.1
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Bronze",
+        "Pick Rate, %":1.74,
+        "Win Rate, %":55.94
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Diamond",
+        "Pick Rate, %":2.0,
+        "Win Rate, %":56.22
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Gold",
+        "Pick Rate, %":1.64,
+        "Win Rate, %":56.01
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":2.1,
+        "Win Rate, %":56.36
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Master",
+        "Pick Rate, %":2.02,
+        "Win Rate, %":56.32
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Platinum",
+        "Pick Rate, %":1.79,
+        "Win Rate, %":56.08
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Silver",
+        "Pick Rate, %":1.66,
+        "Win Rate, %":55.94
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"All",
+        "Pick Rate, %":4.31,
+        "Win Rate, %":45.39
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Bronze",
+        "Pick Rate, %":3.68,
+        "Win Rate, %":45.16
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Diamond",
+        "Pick Rate, %":4.79,
+        "Win Rate, %":45.48
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Gold",
+        "Pick Rate, %":3.66,
+        "Win Rate, %":45.16
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":4.9,
+        "Win Rate, %":45.81
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Master",
+        "Pick Rate, %":4.92,
+        "Win Rate, %":45.57
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Platinum",
+        "Pick Rate, %":4.2,
+        "Win Rate, %":45.28
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Silver",
+        "Pick Rate, %":3.56,
+        "Win Rate, %":45.2
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"All",
+        "Pick Rate, %":3.65,
+        "Win Rate, %":50.13
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Bronze",
+        "Pick Rate, %":4.64,
+        "Win Rate, %":50.78
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Diamond",
+        "Pick Rate, %":4.47,
+        "Win Rate, %":50.89
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Gold",
+        "Pick Rate, %":4.06,
+        "Win Rate, %":50.73
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":4.89,
+        "Win Rate, %":51.48
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Master",
+        "Pick Rate, %":4.64,
+        "Win Rate, %":51.31
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Platinum",
+        "Pick Rate, %":4.31,
+        "Win Rate, %":50.96
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Silver",
+        "Pick Rate, %":4.3,
+        "Win Rate, %":50.76
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"All",
+        "Pick Rate, %":2.03,
+        "Win Rate, %":50.22
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Bronze",
+        "Pick Rate, %":1.46,
+        "Win Rate, %":49.12
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Diamond",
+        "Pick Rate, %":2.24,
+        "Win Rate, %":49.91
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Gold",
+        "Pick Rate, %":1.56,
+        "Win Rate, %":49.3
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":2.12,
+        "Win Rate, %":50.61
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Master",
+        "Pick Rate, %":2.14,
+        "Win Rate, %":50.2
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Platinum",
+        "Pick Rate, %":1.86,
+        "Win Rate, %":49.65
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Silver",
+        "Pick Rate, %":1.42,
+        "Win Rate, %":49.17
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"All",
+        "Pick Rate, %":0.97,
+        "Win Rate, %":50.53
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Bronze",
+        "Pick Rate, %":0.78,
+        "Win Rate, %":49.51
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Diamond",
+        "Pick Rate, %":0.95,
+        "Win Rate, %":50.5
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Gold",
+        "Pick Rate, %":0.81,
+        "Win Rate, %":50.03
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":0.92,
+        "Win Rate, %":51.16
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Master",
+        "Pick Rate, %":0.94,
+        "Win Rate, %":50.92
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Platinum",
+        "Pick Rate, %":0.88,
+        "Win Rate, %":50.41
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Silver",
+        "Pick Rate, %":0.79,
+        "Win Rate, %":49.74
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"All",
+        "Pick Rate, %":5.44,
+        "Win Rate, %":49.04
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Bronze",
+        "Pick Rate, %":4.21,
+        "Win Rate, %":48.02
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Diamond",
+        "Pick Rate, %":5.87,
+        "Win Rate, %":48.64
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Gold",
+        "Pick Rate, %":4.03,
+        "Win Rate, %":48.17
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":6.22,
+        "Win Rate, %":49.48
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Master",
+        "Pick Rate, %":6.17,
+        "Win Rate, %":49.1
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Platinum",
+        "Pick Rate, %":4.93,
+        "Win Rate, %":48.33
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Silver",
+        "Pick Rate, %":3.96,
+        "Win Rate, %":47.88
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"All",
+        "Pick Rate, %":4.23,
+        "Win Rate, %":47.11
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Bronze",
+        "Pick Rate, %":3.66,
+        "Win Rate, %":46.37
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Diamond",
+        "Pick Rate, %":4.5,
+        "Win Rate, %":46.61
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Gold",
+        "Pick Rate, %":3.62,
+        "Win Rate, %":46.75
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":4.63,
+        "Win Rate, %":46.92
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Master",
+        "Pick Rate, %":4.6,
+        "Win Rate, %":46.73
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Platinum",
+        "Pick Rate, %":4.09,
+        "Win Rate, %":46.85
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Silver",
+        "Pick Rate, %":3.55,
+        "Win Rate, %":46.45
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"All",
+        "Pick Rate, %":0.82,
+        "Win Rate, %":52.45
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Bronze",
+        "Pick Rate, %":0.48,
+        "Win Rate, %":50.67
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Diamond",
+        "Pick Rate, %":0.7,
+        "Win Rate, %":51.89
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Gold",
+        "Pick Rate, %":0.6,
+        "Win Rate, %":51.93
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":0.61,
+        "Win Rate, %":52.67
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Master",
+        "Pick Rate, %":0.62,
+        "Win Rate, %":52.09
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Platinum",
+        "Pick Rate, %":0.69,
+        "Win Rate, %":52.03
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Silver",
+        "Pick Rate, %":0.53,
+        "Win Rate, %":51.01
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"All",
+        "Pick Rate, %":2.73,
+        "Win Rate, %":48.04
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Bronze",
+        "Pick Rate, %":2.98,
+        "Win Rate, %":48.14
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Diamond",
+        "Pick Rate, %":3.07,
+        "Win Rate, %":48.05
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Gold",
+        "Pick Rate, %":2.8,
+        "Win Rate, %":48.2
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":3.18,
+        "Win Rate, %":48.37
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Master",
+        "Pick Rate, %":3.08,
+        "Win Rate, %":48.34
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Platinum",
+        "Pick Rate, %":2.86,
+        "Win Rate, %":48.19
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Silver",
+        "Pick Rate, %":2.88,
+        "Win Rate, %":48.27
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"All",
+        "Pick Rate, %":3.3,
+        "Win Rate, %":49.92
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Bronze",
+        "Pick Rate, %":2.1,
+        "Win Rate, %":48.21
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Diamond",
+        "Pick Rate, %":2.69,
+        "Win Rate, %":49.47
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Gold",
+        "Pick Rate, %":2.26,
+        "Win Rate, %":48.97
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":2.45,
+        "Win Rate, %":49.79
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Master",
+        "Pick Rate, %":2.58,
+        "Win Rate, %":49.46
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Platinum",
+        "Pick Rate, %":2.63,
+        "Win Rate, %":49.56
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Silver",
+        "Pick Rate, %":2.09,
+        "Win Rate, %":48.69
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"All",
+        "Pick Rate, %":3.4,
+        "Win Rate, %":52.14
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Bronze",
+        "Pick Rate, %":3.49,
+        "Win Rate, %":52.22
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Diamond",
+        "Pick Rate, %":3.9,
+        "Win Rate, %":52.34
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Gold",
+        "Pick Rate, %":3.22,
+        "Win Rate, %":52.42
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":4.07,
+        "Win Rate, %":52.49
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Master",
+        "Pick Rate, %":4.09,
+        "Win Rate, %":52.59
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Platinum",
+        "Pick Rate, %":3.55,
+        "Win Rate, %":52.27
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Silver",
+        "Pick Rate, %":3.28,
+        "Win Rate, %":52.22
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"All",
+        "Pick Rate, %":1.69,
+        "Win Rate, %":49.57
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Bronze",
+        "Pick Rate, %":1.79,
+        "Win Rate, %":49.47
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Diamond",
+        "Pick Rate, %":1.82,
+        "Win Rate, %":49.45
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Gold",
+        "Pick Rate, %":1.67,
+        "Win Rate, %":49.56
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":2.04,
+        "Win Rate, %":49.93
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Master",
+        "Pick Rate, %":1.9,
+        "Win Rate, %":49.38
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Platinum",
+        "Pick Rate, %":1.75,
+        "Win Rate, %":49.29
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Silver",
+        "Pick Rate, %":1.75,
+        "Win Rate, %":49.78
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"All",
+        "Pick Rate, %":7.12,
+        "Win Rate, %":49.84
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Bronze",
+        "Pick Rate, %":7.13,
+        "Win Rate, %":49.43
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Diamond",
+        "Pick Rate, %":8.09,
+        "Win Rate, %":49.43
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Gold",
+        "Pick Rate, %":6.47,
+        "Win Rate, %":49.47
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":9.9,
+        "Win Rate, %":50.67
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Master",
+        "Pick Rate, %":8.71,
+        "Win Rate, %":49.95
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Platinum",
+        "Pick Rate, %":6.87,
+        "Win Rate, %":49.61
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Silver",
+        "Pick Rate, %":6.54,
+        "Win Rate, %":49.61
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"All",
+        "Pick Rate, %":3.73,
+        "Win Rate, %":51.04
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Bronze",
+        "Pick Rate, %":4.07,
+        "Win Rate, %":50.61
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Diamond",
+        "Pick Rate, %":4.05,
+        "Win Rate, %":50.77
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Gold",
+        "Pick Rate, %":3.78,
+        "Win Rate, %":51.09
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":4.32,
+        "Win Rate, %":51.13
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Master",
+        "Pick Rate, %":4.19,
+        "Win Rate, %":51.05
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Platinum",
+        "Pick Rate, %":3.9,
+        "Win Rate, %":51.16
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Silver",
+        "Pick Rate, %":3.91,
+        "Win Rate, %":50.93
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"All",
+        "Pick Rate, %":1.66,
+        "Win Rate, %":47.12
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Bronze",
+        "Pick Rate, %":1.89,
+        "Win Rate, %":47.67
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Diamond",
+        "Pick Rate, %":1.87,
+        "Win Rate, %":47.55
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Gold",
+        "Pick Rate, %":1.81,
+        "Win Rate, %":47.63
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":1.93,
+        "Win Rate, %":48.14
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Master",
+        "Pick Rate, %":1.86,
+        "Win Rate, %":47.87
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Platinum",
+        "Pick Rate, %":1.84,
+        "Win Rate, %":47.7
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Silver",
+        "Pick Rate, %":1.85,
+        "Win Rate, %":47.77
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"All",
+        "Pick Rate, %":2.03,
+        "Win Rate, %":48.65
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Bronze",
+        "Pick Rate, %":2.09,
+        "Win Rate, %":48.09
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Diamond",
+        "Pick Rate, %":2.28,
+        "Win Rate, %":48.52
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Gold",
+        "Pick Rate, %":2.02,
+        "Win Rate, %":48.5
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":2.32,
+        "Win Rate, %":48.58
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Master",
+        "Pick Rate, %":2.35,
+        "Win Rate, %":48.82
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Platinum",
+        "Pick Rate, %":2.16,
+        "Win Rate, %":48.72
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Silver",
+        "Pick Rate, %":2.02,
+        "Win Rate, %":48.16
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"All",
+        "Pick Rate, %":0.97,
+        "Win Rate, %":52.61
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"Bronze",
+        "Pick Rate, %":0.65,
+        "Win Rate, %":51.57
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"Diamond",
+        "Pick Rate, %":0.81,
+        "Win Rate, %":52.07
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"Gold",
+        "Pick Rate, %":0.76,
+        "Win Rate, %":52.33
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":0.72,
+        "Win Rate, %":52.4
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"Master",
+        "Pick Rate, %":0.73,
+        "Win Rate, %":51.85
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"Platinum",
+        "Pick Rate, %":0.85,
+        "Win Rate, %":52.35
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"Silver",
+        "Pick Rate, %":0.71,
+        "Win Rate, %":51.82
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"All",
+        "Pick Rate, %":2.11,
+        "Win Rate, %":49.69
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Bronze",
+        "Pick Rate, %":2.24,
+        "Win Rate, %":49.66
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Diamond",
+        "Pick Rate, %":2.4,
+        "Win Rate, %":49.83
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Gold",
+        "Pick Rate, %":2.1,
+        "Win Rate, %":49.74
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":2.39,
+        "Win Rate, %":49.82
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Master",
+        "Pick Rate, %":2.37,
+        "Win Rate, %":49.66
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Platinum",
+        "Pick Rate, %":2.27,
+        "Win Rate, %":50.03
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Silver",
+        "Pick Rate, %":2.15,
+        "Win Rate, %":49.75
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"All",
+        "Pick Rate, %":3.86,
+        "Win Rate, %":51.8
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Bronze",
+        "Pick Rate, %":3.7,
+        "Win Rate, %":51.3
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Diamond",
+        "Pick Rate, %":4.51,
+        "Win Rate, %":51.54
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Gold",
+        "Pick Rate, %":3.72,
+        "Win Rate, %":51.32
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":4.37,
+        "Win Rate, %":51.97
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Master",
+        "Pick Rate, %":4.28,
+        "Win Rate, %":51.7
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Platinum",
+        "Pick Rate, %":4.04,
+        "Win Rate, %":51.76
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Silver",
+        "Pick Rate, %":3.63,
+        "Win Rate, %":51.43
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"All",
+        "Pick Rate, %":2.65,
+        "Win Rate, %":46.58
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Bronze",
+        "Pick Rate, %":2.75,
+        "Win Rate, %":46.48
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Diamond",
+        "Pick Rate, %":3.37,
+        "Win Rate, %":46.93
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Gold",
+        "Pick Rate, %":2.63,
+        "Win Rate, %":46.39
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":3.27,
+        "Win Rate, %":47.2
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Master",
+        "Pick Rate, %":3.25,
+        "Win Rate, %":47.06
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Platinum",
+        "Pick Rate, %":2.92,
+        "Win Rate, %":46.61
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Silver",
+        "Pick Rate, %":2.62,
+        "Win Rate, %":46.2
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"All",
+        "Pick Rate, %":1.76,
+        "Win Rate, %":51.77
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Bronze",
+        "Pick Rate, %":1.73,
+        "Win Rate, %":51.28
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Diamond",
+        "Pick Rate, %":1.95,
+        "Win Rate, %":51.51
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Gold",
+        "Pick Rate, %":1.73,
+        "Win Rate, %":51.48
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":1.93,
+        "Win Rate, %":51.92
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Master",
+        "Pick Rate, %":1.92,
+        "Win Rate, %":51.72
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Platinum",
+        "Pick Rate, %":1.83,
+        "Win Rate, %":51.61
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Silver",
+        "Pick Rate, %":1.7,
+        "Win Rate, %":51.53
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"All",
+        "Pick Rate, %":1.06,
+        "Win Rate, %":47.25
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Bronze",
+        "Pick Rate, %":0.65,
+        "Win Rate, %":44.44
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Diamond",
+        "Pick Rate, %":0.81,
+        "Win Rate, %":46.5
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Gold",
+        "Pick Rate, %":0.72,
+        "Win Rate, %":45.85
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":0.76,
+        "Win Rate, %":47.85
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Master",
+        "Pick Rate, %":0.79,
+        "Win Rate, %":46.87
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Platinum",
+        "Pick Rate, %":0.79,
+        "Win Rate, %":46.42
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Silver",
+        "Pick Rate, %":0.67,
+        "Win Rate, %":45.16
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"All",
+        "Pick Rate, %":3.2,
+        "Win Rate, %":48.05
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Bronze",
+        "Pick Rate, %":3.13,
+        "Win Rate, %":48.33
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Diamond",
+        "Pick Rate, %":3.58,
+        "Win Rate, %":48.65
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Gold",
+        "Pick Rate, %":3.01,
+        "Win Rate, %":48.12
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":3.65,
+        "Win Rate, %":49.13
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Master",
+        "Pick Rate, %":3.61,
+        "Win Rate, %":48.78
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Platinum",
+        "Pick Rate, %":3.21,
+        "Win Rate, %":48.55
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Silver",
+        "Pick Rate, %":3.09,
+        "Win Rate, %":48.26
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"All",
+        "Pick Rate, %":1.67,
+        "Win Rate, %":43.97
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Bronze",
+        "Pick Rate, %":1.84,
+        "Win Rate, %":43.95
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Diamond",
+        "Pick Rate, %":2.0,
+        "Win Rate, %":44.37
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Gold",
+        "Pick Rate, %":1.71,
+        "Win Rate, %":44.29
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":2.09,
+        "Win Rate, %":44.7
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Master",
+        "Pick Rate, %":2.03,
+        "Win Rate, %":44.24
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Platinum",
+        "Pick Rate, %":1.8,
+        "Win Rate, %":44.27
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Silver",
+        "Pick Rate, %":1.75,
+        "Win Rate, %":44.12
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"All",
+        "Pick Rate, %":1.43,
+        "Win Rate, %":55.23
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Bronze",
+        "Pick Rate, %":1.6,
+        "Win Rate, %":56.13
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Diamond",
+        "Pick Rate, %":1.65,
+        "Win Rate, %":55.73
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Gold",
+        "Pick Rate, %":1.47,
+        "Win Rate, %":55.93
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":1.76,
+        "Win Rate, %":55.99
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Master",
+        "Pick Rate, %":1.69,
+        "Win Rate, %":55.9
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Platinum",
+        "Pick Rate, %":1.53,
+        "Win Rate, %":55.66
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Silver",
+        "Pick Rate, %":1.57,
+        "Win Rate, %":56.18
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"All",
+        "Pick Rate, %":1.35,
+        "Win Rate, %":54.16
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Bronze",
+        "Pick Rate, %":1.49,
+        "Win Rate, %":55.17
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Diamond",
+        "Pick Rate, %":1.62,
+        "Win Rate, %":54.65
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Gold",
+        "Pick Rate, %":1.34,
+        "Win Rate, %":54.78
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":1.62,
+        "Win Rate, %":54.86
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Master",
+        "Pick Rate, %":1.59,
+        "Win Rate, %":54.73
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Platinum",
+        "Pick Rate, %":1.41,
+        "Win Rate, %":54.52
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Silver",
+        "Pick Rate, %":1.44,
+        "Win Rate, %":55.14
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"All",
+        "Pick Rate, %":2.71,
+        "Win Rate, %":46.59
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Bronze",
+        "Pick Rate, %":2.33,
+        "Win Rate, %":46.74
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Diamond",
+        "Pick Rate, %":2.95,
+        "Win Rate, %":47.05
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Gold",
+        "Pick Rate, %":2.22,
+        "Win Rate, %":46.49
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":3.24,
+        "Win Rate, %":48.17
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Master",
+        "Pick Rate, %":3.11,
+        "Win Rate, %":47.17
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Platinum",
+        "Pick Rate, %":2.5,
+        "Win Rate, %":46.8
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Silver",
+        "Pick Rate, %":2.21,
+        "Win Rate, %":46.79
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"All",
+        "Pick Rate, %":4.1,
+        "Win Rate, %":44.83
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Bronze",
+        "Pick Rate, %":3.55,
+        "Win Rate, %":44.65
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Diamond",
+        "Pick Rate, %":4.4,
+        "Win Rate, %":44.97
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Gold",
+        "Pick Rate, %":3.3,
+        "Win Rate, %":44.61
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":4.78,
+        "Win Rate, %":45.52
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Master",
+        "Pick Rate, %":4.79,
+        "Win Rate, %":45.3
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Platinum",
+        "Pick Rate, %":3.97,
+        "Win Rate, %":44.21
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Silver",
+        "Pick Rate, %":3.41,
+        "Win Rate, %":44.36
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"All",
+        "Pick Rate, %":1.68,
+        "Win Rate, %":49.54
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Bronze",
+        "Pick Rate, %":1.54,
+        "Win Rate, %":49.41
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Diamond",
+        "Pick Rate, %":2.05,
+        "Win Rate, %":49.86
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Gold",
+        "Pick Rate, %":1.55,
+        "Win Rate, %":49.44
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":1.89,
+        "Win Rate, %":50.52
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Master",
+        "Pick Rate, %":1.89,
+        "Win Rate, %":50.32
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Platinum",
+        "Pick Rate, %":1.7,
+        "Win Rate, %":49.18
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Silver",
+        "Pick Rate, %":1.49,
+        "Win Rate, %":49.13
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"All",
+        "Pick Rate, %":1.4,
+        "Win Rate, %":51.12
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Bronze",
+        "Pick Rate, %":1.22,
+        "Win Rate, %":50.77
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Diamond",
+        "Pick Rate, %":1.69,
+        "Win Rate, %":51.37
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Gold",
+        "Pick Rate, %":1.2,
+        "Win Rate, %":50.64
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":1.58,
+        "Win Rate, %":51.82
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Master",
+        "Pick Rate, %":1.62,
+        "Win Rate, %":51.46
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Platinum",
+        "Pick Rate, %":1.39,
+        "Win Rate, %":51.1
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Silver",
+        "Pick Rate, %":1.17,
+        "Win Rate, %":50.73
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"All",
+        "Pick Rate, %":2.42,
+        "Win Rate, %":49.0
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Bronze",
+        "Pick Rate, %":2.41,
+        "Win Rate, %":48.62
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Diamond",
+        "Pick Rate, %":2.89,
+        "Win Rate, %":49.13
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Gold",
+        "Pick Rate, %":2.4,
+        "Win Rate, %":48.52
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":2.84,
+        "Win Rate, %":49.48
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Master",
+        "Pick Rate, %":2.93,
+        "Win Rate, %":49.59
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Platinum",
+        "Pick Rate, %":2.66,
+        "Win Rate, %":49.05
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Silver",
+        "Pick Rate, %":2.35,
+        "Win Rate, %":48.65
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"All",
+        "Pick Rate, %":3.33,
+        "Win Rate, %":52.54
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Bronze",
+        "Pick Rate, %":3.12,
+        "Win Rate, %":51.81
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Diamond",
+        "Pick Rate, %":3.73,
+        "Win Rate, %":52.46
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Gold",
+        "Pick Rate, %":2.96,
+        "Win Rate, %":52.2
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":3.9,
+        "Win Rate, %":52.39
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Master",
+        "Pick Rate, %":3.91,
+        "Win Rate, %":52.46
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Platinum",
+        "Pick Rate, %":3.35,
+        "Win Rate, %":52.18
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Silver",
+        "Pick Rate, %":2.96,
+        "Win Rate, %":51.9
+    }
+]
