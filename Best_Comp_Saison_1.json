@@ -1,0 +1,27 @@
+[
+    {
+        "Hero":"Zarya",
+        "Role":"Tank",
+        "Pick Rate, %":11.14
+    },
+    {
+        "Hero":"Ana",
+        "Role":"Support",
+        "Pick Rate, %":6.55
+    },
+    {
+        "Hero":"Lucio",
+        "Role":"Support",
+        "Pick Rate, %":6.09
+    },
+    {
+        "Hero":"Sojourn",
+        "Role":"Damage",
+        "Pick Rate, %":7.46
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Role":"Damage",
+        "Pick Rate, %":6.69
+    }
+]

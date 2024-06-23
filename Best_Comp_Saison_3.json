@@ -1,0 +1,27 @@
+[
+    {
+        "Hero":"Reinhardt",
+        "Role":"Tank",
+        "Pick Rate, %":10.75
+    },
+    {
+        "Hero":"Ana",
+        "Role":"Support",
+        "Pick Rate, %":28.03
+    },
+    {
+        "Hero":"Mercy",
+        "Role":"Support",
+        "Pick Rate, %":17.97
+    },
+    {
+        "Hero":"Cassidy",
+        "Role":"Damage",
+        "Pick Rate, %":19.55
+    },
+    {
+        "Hero":"Genji",
+        "Role":"Damage",
+        "Pick Rate, %":12.51
+    }
+]

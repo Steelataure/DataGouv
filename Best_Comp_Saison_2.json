@@ -1,0 +1,27 @@
+[
+    {
+        "Hero":"Roadhog",
+        "Role":"Tank",
+        "Pick Rate, %":7.4
+    },
+    {
+        "Hero":"Kiriko",
+        "Role":"Support",
+        "Pick Rate, %":11.9
+    },
+    {
+        "Hero":"Ana",
+        "Role":"Support",
+        "Pick Rate, %":8.54
+    },
+    {
+        "Hero":"Sojourn",
+        "Role":"Damage",
+        "Pick Rate, %":7.04
+    },
+    {
+        "Hero":"Widowmaker",
+        "Role":"Damage",
+        "Pick Rate, %":5.96
+    }
+]

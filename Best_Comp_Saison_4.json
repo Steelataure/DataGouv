@@ -1,0 +1,27 @@
+[
+    {
+        "Hero":"Junker Queen",
+        "Role":"Tank",
+        "Pick Rate, %":11.45
+    },
+    {
+        "Hero":"Ana",
+        "Role":"Support",
+        "Pick Rate, %":19.04
+    },
+    {
+        "Hero":"Kiriko",
+        "Role":"Support",
+        "Pick Rate, %":14.41
+    },
+    {
+        "Hero":"Tracer",
+        "Role":"Damage",
+        "Pick Rate, %":9.81
+    },
+    {
+        "Hero":"Hanzo",
+        "Role":"Damage",
+        "Pick Rate, %":7.61
+    }
+]

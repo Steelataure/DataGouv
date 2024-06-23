@@ -2,7 +2,7 @@
 
 Thèmes à traiter : 
 
-[X] Win Rate selon le rang / perso
+[o] Win Rate selon le rang / perso
 [X] Meilleure composition selon les saisons
 [X] Nombres de compétences utilisés selon le rang
 [X] Précision et % Headshot selon le rang

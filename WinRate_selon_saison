@@ -1,0 +1,254 @@
+[
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":28.03,
+        "Win Rate, %":53.26,
+        "Win Rate":179.3972439782
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Master",
+        "Pick Rate, %":5.05,
+        "Win Rate, %":51.28,
+        "Win Rate":92.3069881904
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":7.61,
+        "Win Rate, %":53.08,
+        "Win Rate":114.2772228228
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":3.99,
+        "Win Rate, %":52.85,
+        "Win Rate":84.952987831
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":5.39,
+        "Win Rate, %":53.59,
+        "Win Rate":99.395209443
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":19.55,
+        "Win Rate, %":51.77,
+        "Win Rate":156.4935109126
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":5.53,
+        "Win Rate, %":50.94,
+        "Win Rate":95.5841696911
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":6.89,
+        "Win Rate, %":51.89,
+        "Win Rate":107.1837834378
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":3.32,
+        "Win Rate, %":50.45,
+        "Win Rate":73.8212350438
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":12.51,
+        "Win Rate, %":53.37,
+        "Win Rate":138.9450672108
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":8.97,
+        "Win Rate, %":50.72,
+        "Win Rate":116.6347272191
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":2.55,
+        "Win Rate, %":51.87,
+        "Win Rate":65.7165721929
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":4.35,
+        "Win Rate, %":55.53,
+        "Win Rate":93.1291720272
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":15.94,
+        "Win Rate, %":48.96,
+        "Win Rate":138.5410196644
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Platinum",
+        "Pick Rate, %":6.64,
+        "Win Rate, %":53.1,
+        "Win Rate":107.9734127288
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Master",
+        "Pick Rate, %":3.35,
+        "Win Rate, %":52.77,
+        "Win Rate":77.581179346
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":17.97,
+        "Win Rate, %":52.16,
+        "Win Rate":153.4995141707
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Diamond",
+        "Pick Rate, %":9.32,
+        "Win Rate, %":50.95,
+        "Win Rate":118.9215675747
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Master",
+        "Pick Rate, %":5.09,
+        "Win Rate, %":47.72,
+        "Win Rate":86.2132464598
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Master",
+        "Pick Rate, %":3.14,
+        "Win Rate, %":52.68,
+        "Win Rate":74.8422541033
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":5.09,
+        "Win Rate, %":50.92,
+        "Win Rate":91.9945203213
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Platinum",
+        "Pick Rate, %":4.34,
+        "Win Rate, %":54.89,
+        "Win Rate":91.9531360916
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":10.75,
+        "Win Rate, %":56.01,
+        "Win Rate":138.0004200055
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":7.4,
+        "Win Rate, %":51.08,
+        "Win Rate":108.7100755348
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":5.83,
+        "Win Rate, %":53.24,
+        "Win Rate":102.2913256215
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":7.46,
+        "Win Rate, %":51.2,
+        "Win Rate":109.3298776892
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Master",
+        "Pick Rate, %":9.0,
+        "Win Rate, %":55.06,
+        "Win Rate":126.7803352203
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":3.28,
+        "Win Rate, %":56.07,
+        "Win Rate":81.5231452479
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":2.74,
+        "Win Rate, %":53.05,
+        "Win Rate":69.9774916862
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":3.14,
+        "Win Rate, %":59.32,
+        "Win Rate":84.2756741345
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":11.98,
+        "Win Rate, %":52.55,
+        "Win Rate":134.7071803276
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":7.93,
+        "Win Rate, %":51.49,
+        "Win Rate":112.7330501728
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":4.84,
+        "Win Rate, %":49.07,
+        "Win Rate":86.5953402009
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":7.33,
+        "Win Rate, %":51.81,
+        "Win Rate":109.8301256646
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":11.14,
+        "Win Rate, %":57.99,
+        "Win Rate":144.7723705088
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Grandmaster",
+        "Pick Rate, %":11.33,
+        "Win Rate, %":54.18,
+        "Win Rate":136.1020734846
+    }
+]
