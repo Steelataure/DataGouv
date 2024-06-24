@@ -40,20 +40,53 @@ def Comp_selon_saison():
 
         best_comp.to_json(f'Best_Comp_Saison_{i}.json', orient='records', indent=4)
 
-def KDA_par_champion(chemins_fichiers):
-    for chemin in chemins_fichiers:
-        df = pd.read_csv(chemin)
-        print(df.columns)  # Inspecter les noms des colonnes disponibles
-        # Utiliser les noms de colonnes corrects
-        df['KDA'] = df['Eliminations / 10min'] / df['Deaths / 10min']  # Remplacer par les noms corrects
-        kda_selection = df[['Hero', 'Skill Tier', 'KDA']].groupby(['Hero', 'Skill Tier']).mean().reset_index()
-        saison = chemin.split('_')[2]
-        kda_selection.to_json(f'KDA_Saison_{saison}.json', orient='records', indent=4)
+def kda_global_per_champion():
+    print("Calcul du KDA global par champion et par rang...")
+    files = [f'archive/ow2_season_0{i}_FINAL_heroes_stats__2023-05-06.csv' for i in range(1, 5)]
+    all_data = []
 
+    for file_path in files:
+        df = pd.read_csv(file_path)
+        if 'Eliminations / 10min' in df.columns and 'Deaths / 10min' in df.columns:
+            df['Season'] = file_path.split('_')[2]
+            all_data.append(df[['Hero', 'Skill Tier', 'Season', 'Eliminations / 10min', 'Deaths / 10min']])
+
+    if all_data:
+        combined_df = pd.concat(all_data, ignore_index=True)
+        combined_df['KDA'] = combined_df['Eliminations / 10min'] / combined_df['Deaths / 10min']
+        kda_selection = combined_df[['Hero', 'Skill Tier', 'KDA']].groupby(['Hero', 'Skill Tier']).mean().reset_index()
+        kda_selection.to_json('KDA_Global.json', orient='records', indent=4)
+        print("Le fichier KDA_Global.json a été créé avec succès.")
+    else:
+        print("Aucune donnée n'a été trouvée pour calculer le KDA.")
+        
+def create_headshot_accuracy_json():
+    files = [f'archive/ow2_season_0{i}_FINAL_heroes_stats__2023-05-06.csv' for i in range(1, 5)]
+
+    all_data = []
+
+    for file in files:
+        df = pd.read_csv(file)
+        if 'Crit Accuracy, %' in df.columns:
+            df_filtered = df[['Hero', 'Skill Tier', 'Crit Accuracy, %']]
+            all_data.append(df_filtered)
+        else:
+            print(f"Column 'Headshot Accuracy, %' not found in {file}")
+
+    if all_data:
+        combined_df = pd.concat(all_data, ignore_index=True)
+        combined_df.to_json('Headshot_Accuracy.json', orient='records', indent=4)
+        print("Le fichier Headshot_Accuracy.json a été créé avec succès.")
+    else:
+        print("Aucune donnée d'accuracy de headshot trouvée dans les fichiers.")
+
+    
 def main():
     Comp_selon_saison()
     WinRate_PickRate()
-    KDA_par_champion([f'archive/ow2_season_0{i}_FINAL_heroes_stats__2023-05-06.csv' for i in range(1, 5)])
+    kda_global_per_champion()
+    create_headshot_accuracy_json()
+
 
 if __name__ == "__main__":
     main()

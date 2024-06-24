@@ -40,26 +40,54 @@ def Comp_selon_saison():
 def Graph_KDA_par_champion():
     data_list = []
     
-    for i in range(1, 5):
-        chemin_fichier = f'KDA_Saison_0{i}.json'  
-        kda_data = pd.read_json(chemin_fichier)
-        data_list.append(kda_data)
+    chemin_fichier = f'KDA_Global.json'  
+    kda_data = pd.read_json(chemin_fichier)
+    data_list.append(kda_data)
+
+    plt.figure(figsize=(10, 6))
+    sns.barplot(x='KDA', y='Hero', hue='Skill Tier', data=kda_data)
+    plt.title(f'KDA par Champion')
+    plt.xlabel('KDA')
+    plt.ylabel('Héros')
+    plt.xticks(rotation=45)
+    plt.legend(title='Skill Tier')
+    plt.tight_layout()
+    plt.show()
     
-    for i, kda_data in enumerate(data_list, start=1):
-        plt.figure(figsize=(10, 6))
-        sns.barplot(x='KDA', y='Hero', hue='Skill Tier', data=kda_data)
-        plt.title(f'KDA par Champion Saison {i}')
-        plt.xlabel('KDA')
-        plt.ylabel('Héros')
-        plt.xticks(rotation=45)
-        plt.legend(title='Skill Tier')
-        plt.tight_layout()
-        plt.show()
+    
+def Graph_Headshot_Accuracy():
+    chemin_fichier = 'Headshot_Accuracy.json'
+    headshot_data = pd.read_json(chemin_fichier)
+
+    plt.figure(figsize=(10, 6))
+    sns.barplot(x='Crit Accuracy, %', y='Hero', hue='Skill Tier', data=headshot_data)
+    plt.title('Accuracy des Headshots par Champion et par Rank')
+    plt.xlabel('Accuracy des Headshots (%)')
+    plt.ylabel('Héros')
+    plt.xticks(rotation=45)
+    plt.legend(title='Skill Tier')
+    plt.tight_layout()
+    plt.show()
+
+def Graph_Headshot_Accuracy_By_Tier():
+    chemin_fichier = 'Headshot_Accuracy.json'
+    headshot_data = pd.read_json(chemin_fichier)
+
+    plt.figure(figsize=(10, 6))
+    sns.barplot(x='Skill Tier', y='Crit Accuracy, %', data=headshot_data)
+    plt.title('Accuracy des Headshots par Rank')
+    plt.xlabel('Skill Tier')
+    plt.ylabel('Accuracy des Headshots (%)')
+    plt.xticks(rotation=45)
+    plt.tight_layout()
+    plt.show()
 
 def main():
     Comp_selon_saison()
     Graph_WinRate_PickRate()
     Graph_KDA_par_champion()
+    Graph_Headshot_Accuracy_By_Tier()
+    Graph_Headshot_Accuracy()
 
 if __name__ == "__main__":
     main()

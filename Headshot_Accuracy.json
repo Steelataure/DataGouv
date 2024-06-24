@@ -1,0 +1,5762 @@
+[
+    {
+        "Hero":"Ana",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":16.0
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":14.0
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":15.0
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":15.0
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":15.0
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":16.0
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":15.0
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":15.0
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":15.0
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":13.0
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":13.0
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":14.0
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":15.0
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":14.0
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":15.0
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":14.0
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":11.0
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":13.0
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":12.0
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":12.0
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":12.0
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":15.0
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":12.0
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":12.0
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":13.0
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":7.0
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":15.0
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":14.0
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":14.0
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":14.0
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":15.0
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":16.0
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":16.0
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":15.0
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":13.0
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":12.0
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":12.0
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":12.0
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":13.0
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":13.0
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":13.0
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":13.0
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":11.0
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":11.0
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":11.0
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":12.0
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":14.0
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":13.0
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":13.0
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":14.0
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":14.0
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":15.0
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":15.0
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":15.0
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":12.0
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":11.0
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":11.0
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":12.0
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":12.0
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":12.0
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":13.0
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":13.0
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":7.0
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":7.0
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":7.0
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":7.0
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":7.0
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":7.0
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":7.0
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":7.0
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":11.0
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":15.0
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":13.0
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":14.0
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":14.0
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":15.0
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":15.0
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":16.0
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":17.0
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":13.0
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":12.0
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":12.0
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":12.0
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":12.0
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":13.0
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":13.0
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":13.0
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":7.0
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":7.0
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":7.0
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":7.0
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":7.0
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":7.0
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":9.0
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":11.0
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":8.0
+    },
+    {
+        "Hero":"Lifeweaver",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":11.0
+    },
+    {
+        "Hero":"Lifeweaver",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":10.0
+    },
+    {
+        "Hero":"Lifeweaver",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":11.0
+    },
+    {
+        "Hero":"Lifeweaver",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":11.0
+    },
+    {
+        "Hero":"Lifeweaver",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":11.0
+    },
+    {
+        "Hero":"Lifeweaver",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":11.0
+    },
+    {
+        "Hero":"Lifeweaver",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":11.0
+    },
+    {
+        "Hero":"Lifeweaver",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":11.0
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"All",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Bronze",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Silver",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Gold",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Platinum",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Diamond",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Master",
+        "Crit Accuracy, %":null
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Grandmaster",
+        "Crit Accuracy, %":null
+    }
+]
