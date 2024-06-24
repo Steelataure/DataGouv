@@ -101,11 +101,6 @@ def Impact_Up_Nerf():
     # Fusionner saison_df avec Up_Nerf_df sur la colonne 'Hero'
     fusion_df = saison_df.merge(Up_et_Nerf_df, on='Hero', how='left')
     
-    # Ajouter une colonne 'Equilibrage' pour marquer Nerf ou Up pour chaque saison
-    for i in range(1, 5):
-        fusion_df.loc[fusion_df[f'Saison {i}'] == 'Nerf', f'Saison {i}'] = 'Nerf'
-        fusion_df.loc[fusion_df[f'Saison {i}'] == 'Up', f'Saison {i}'] = 'Up'
-    
     # Maintenant, nous pouvons calculer l'impact des modifications sur Pick Rate et Win Rate
     # en regroupant par 'Hero', 'Role', et 'Equilibrage'
     impact_df = fusion_df.groupby(['Hero', 'Role', 'Saison'])[['Pick Rate, %', 'Win Rate, %']].mean().reset_index()
