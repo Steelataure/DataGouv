@@ -40,10 +40,20 @@ def Comp_selon_saison():
 
         best_comp.to_json(f'Best_Comp_Saison_{i}.json', orient='records', indent=4)
 
+def KDA_par_champion(chemins_fichiers):
+    for chemin in chemins_fichiers:
+        df = pd.read_csv(chemin)
+        print(df.columns)  # Inspecter les noms des colonnes disponibles
+        # Utiliser les noms de colonnes corrects
+        df['KDA'] = df['Eliminations / 10min'] / df['Deaths / 10min']  # Remplacer par les noms corrects
+        kda_selection = df[['Hero', 'Skill Tier', 'KDA']].groupby(['Hero', 'Skill Tier']).mean().reset_index()
+        saison = chemin.split('_')[2]
+        kda_selection.to_json(f'KDA_Saison_{saison}.json', orient='records', indent=4)
+
 def main():
-        Comp_selon_saison()
-        WinRate_PickRate()
+    Comp_selon_saison()
+    WinRate_PickRate()
+    KDA_par_champion([f'archive/ow2_season_0{i}_FINAL_heroes_stats__2023-05-06.csv' for i in range(1, 5)])
 
 if __name__ == "__main__":
     main()
-

@@ -1,0 +1,1442 @@
+[
+    {
+        "Hero":"Ana",
+        "Skill Tier":"All",
+        "KDA":1.6170940171
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Bronze",
+        "KDA":1.2936630603
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Diamond",
+        "KDA":1.6898954704
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Gold",
+        "KDA":1.5024469821
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Grandmaster",
+        "KDA":1.6996402878
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Master",
+        "KDA":1.7317939609
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Platinum",
+        "KDA":1.6179966044
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Silver",
+        "KDA":1.3962264151
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"All",
+        "KDA":2.2676431425
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Bronze",
+        "KDA":1.8445595855
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Diamond",
+        "KDA":2.3258278146
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Gold",
+        "KDA":2.2170963365
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Grandmaster",
+        "KDA":2.2886597938
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Master",
+        "KDA":2.308496732
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Platinum",
+        "KDA":2.2970430108
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Silver",
+        "KDA":2.0615796519
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"All",
+        "KDA":1.7064364207
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Bronze",
+        "KDA":1.3166904422
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Diamond",
+        "KDA":1.8112903226
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Gold",
+        "KDA":1.5542168675
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Grandmaster",
+        "KDA":1.9534109817
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Master",
+        "KDA":1.8682926829
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Platinum",
+        "KDA":1.6870109546
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Silver",
+        "KDA":1.4593023256
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"All",
+        "KDA":2.4357053683
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Bronze",
+        "KDA":2.0476190476
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Diamond",
+        "KDA":2.5394402036
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Gold",
+        "KDA":2.3635250918
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Grandmaster",
+        "KDA":2.4320203304
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Master",
+        "KDA":2.5069885642
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Platinum",
+        "KDA":2.469924812
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Silver",
+        "KDA":2.2047619048
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"All",
+        "KDA":1.6211512718
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Bronze",
+        "KDA":1.3444576877
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Diamond",
+        "KDA":1.6793478261
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Gold",
+        "KDA":1.5591531756
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Grandmaster",
+        "KDA":1.6671802773
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Master",
+        "KDA":1.6666666667
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Platinum",
+        "KDA":1.6186770428
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Silver",
+        "KDA":1.4932515337
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"All",
+        "KDA":2.2609238452
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Bronze",
+        "KDA":1.8758949881
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Diamond",
+        "KDA":2.3220973783
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Gold",
+        "KDA":2.1391625616
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Grandmaster",
+        "KDA":2.3629343629
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Master",
+        "KDA":2.3526448363
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Platinum",
+        "KDA":2.2456575682
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Silver",
+        "KDA":2.014527845
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"All",
+        "KDA":3.8946395564
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Bronze",
+        "KDA":3.1511627907
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Diamond",
+        "KDA":4.04315197
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Gold",
+        "KDA":3.7829181495
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Grandmaster",
+        "KDA":4.0385395538
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Master",
+        "KDA":3.969581749
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Platinum",
+        "KDA":3.9143897996
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Silver",
+        "KDA":3.5293103448
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"All",
+        "KDA":2.3748378729
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Bronze",
+        "KDA":1.8709288299
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Diamond",
+        "KDA":2.4241245136
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Gold",
+        "KDA":2.150310559
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Grandmaster",
+        "KDA":2.4940239044
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Master",
+        "KDA":2.4835742444
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Platinum",
+        "KDA":2.3432258065
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Silver",
+        "KDA":2.1160151324
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"All",
+        "KDA":2.2610294118
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Bronze",
+        "KDA":1.8732057416
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Diamond",
+        "KDA":2.3128834356
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Gold",
+        "KDA":2.1280193237
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Grandmaster",
+        "KDA":2.5
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Master",
+        "KDA":2.3637484587
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Platinum",
+        "KDA":2.2257281553
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Silver",
+        "KDA":2.0023612751
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"All",
+        "KDA":2.1898428053
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Bronze",
+        "KDA":1.8446833931
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Diamond",
+        "KDA":2.2527206771
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Gold",
+        "KDA":2.0358422939
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Grandmaster",
+        "KDA":2.34625
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Master",
+        "KDA":2.2770352369
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Platinum",
+        "KDA":2.1618705036
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Silver",
+        "KDA":1.891509434
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"All",
+        "KDA":2.2321660182
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Bronze",
+        "KDA":1.9130982368
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Diamond",
+        "KDA":2.2868217054
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Gold",
+        "KDA":2.169469599
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Grandmaster",
+        "KDA":2.2065359477
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Master",
+        "KDA":2.2619354839
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Platinum",
+        "KDA":2.2529182879
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Silver",
+        "KDA":2.0355329949
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"All",
+        "KDA":3.0456621005
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Bronze",
+        "KDA":2.3854907539
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Diamond",
+        "KDA":3.1111111111
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Gold",
+        "KDA":2.919939577
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Grandmaster",
+        "KDA":3.153250774
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Master",
+        "KDA":3.1493902439
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Platinum",
+        "KDA":3.0257575758
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Silver",
+        "KDA":2.7017804154
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"All",
+        "KDA":1.993909866
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Bronze",
+        "KDA":1.7652474108
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Diamond",
+        "KDA":2.0343137255
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Gold",
+        "KDA":1.985472155
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Grandmaster",
+        "KDA":1.8975609756
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Master",
+        "KDA":2.0036855037
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Platinum",
+        "KDA":2.0281517748
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Silver",
+        "KDA":1.8845700824
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"All",
+        "KDA":1.4365217391
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Bronze",
+        "KDA":1.1568
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Diamond",
+        "KDA":1.4902654867
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Gold",
+        "KDA":1.3131313131
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Grandmaster",
+        "KDA":1.6376554174
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Master",
+        "KDA":1.5778175313
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Platinum",
+        "KDA":1.3968804159
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Silver",
+        "KDA":1.2291325696
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"All",
+        "KDA":1.7179487179
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Bronze",
+        "KDA":1.408083442
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Diamond",
+        "KDA":1.735924933
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Gold",
+        "KDA":1.6582109479
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Grandmaster",
+        "KDA":1.8312236287
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Master",
+        "KDA":1.7937584803
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Platinum",
+        "KDA":1.7310810811
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Silver",
+        "KDA":1.570673712
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"All",
+        "KDA":2.4695290859
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Bronze",
+        "KDA":2.210106383
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Diamond",
+        "KDA":2.508356546
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Gold",
+        "KDA":2.4506849315
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Grandmaster",
+        "KDA":2.4490674319
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Master",
+        "KDA":2.5
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Platinum",
+        "KDA":2.5125
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Silver",
+        "KDA":2.3378378378
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"All",
+        "KDA":0.2906976744
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Bronze",
+        "KDA":0.2529069767
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Diamond",
+        "KDA":0.3003412969
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Gold",
+        "KDA":0.2863924051
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Grandmaster",
+        "KDA":0.2732049037
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Master",
+        "KDA":0.2933104631
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Platinum",
+        "KDA":0.2940199336
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Silver",
+        "KDA":0.2876712329
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"All",
+        "KDA":2.8962722853
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Bronze",
+        "KDA":2.4947049924
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Diamond",
+        "KDA":2.9655172414
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Gold",
+        "KDA":2.8402555911
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Grandmaster",
+        "KDA":2.7650793651
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Master",
+        "KDA":2.8836833603
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Platinum",
+        "KDA":2.9720853859
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Silver",
+        "KDA":2.6951788491
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"All",
+        "KDA":2.5633001422
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Bronze",
+        "KDA":2.0462351387
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Diamond",
+        "KDA":2.676300578
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Gold",
+        "KDA":2.4573426573
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Grandmaster",
+        "KDA":2.6078717201
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Master",
+        "KDA":2.6570188133
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Platinum",
+        "KDA":2.604850214
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Silver",
+        "KDA":2.3119015048
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"All",
+        "KDA":2.4532544379
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Bronze",
+        "KDA":2.1759708738
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Diamond",
+        "KDA":2.5023364486
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Gold",
+        "KDA":2.4326923077
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Grandmaster",
+        "KDA":2.4887839433
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Master",
+        "KDA":2.4941588785
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Platinum",
+        "KDA":2.474556213
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Silver",
+        "KDA":2.3397358944
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"All",
+        "KDA":3.0229007634
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"Bronze",
+        "KDA":2.5035360679
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"Diamond",
+        "KDA":3.0718654434
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"Gold",
+        "KDA":2.9593984962
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"Grandmaster",
+        "KDA":2.9046153846
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"Master",
+        "KDA":3.0045731707
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"Platinum",
+        "KDA":3.0626911315
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"Silver",
+        "KDA":2.8220588235
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"All",
+        "KDA":2.4516129032
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Bronze",
+        "KDA":2.1618357488
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Diamond",
+        "KDA":2.5249376559
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Gold",
+        "KDA":2.4007398274
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Grandmaster",
+        "KDA":2.4395465995
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Master",
+        "KDA":2.5168539326
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Platinum",
+        "KDA":2.4745972739
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Silver",
+        "KDA":2.2923264312
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"All",
+        "KDA":2.5007342144
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Bronze",
+        "KDA":2.0650406504
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Diamond",
+        "KDA":2.5511111111
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Gold",
+        "KDA":2.4356005789
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Grandmaster",
+        "KDA":2.3824817518
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Master",
+        "KDA":2.4831625183
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Platinum",
+        "KDA":2.540620384
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Silver",
+        "KDA":2.2998585573
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"All",
+        "KDA":2.5637982196
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Bronze",
+        "KDA":1.9890410959
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Diamond",
+        "KDA":2.6701492537
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Gold",
+        "KDA":2.4179970972
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Grandmaster",
+        "KDA":2.6338461538
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Master",
+        "KDA":2.6938159879
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Platinum",
+        "KDA":2.5508100147
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Silver",
+        "KDA":2.1904090268
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"All",
+        "KDA":3.6850393701
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Bronze",
+        "KDA":2.9154676259
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Diamond",
+        "KDA":3.8015873016
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Gold",
+        "KDA":3.5316698656
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Grandmaster",
+        "KDA":3.6586345382
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Master",
+        "KDA":3.7673956262
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Platinum",
+        "KDA":3.7165354331
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Silver",
+        "KDA":3.2513863216
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"All",
+        "KDA":2.3002512563
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Bronze",
+        "KDA":1.8537170264
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Diamond",
+        "KDA":2.351758794
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Gold",
+        "KDA":2.1644004944
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Grandmaster",
+        "KDA":2.5628272251
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Master",
+        "KDA":2.3853904282
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Platinum",
+        "KDA":2.2781954887
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Silver",
+        "KDA":2.0389768575
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"All",
+        "KDA":2.3641975309
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Bronze",
+        "KDA":1.9406392694
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Diamond",
+        "KDA":2.4579673777
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Gold",
+        "KDA":2.2793228537
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Grandmaster",
+        "KDA":2.4377406932
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Master",
+        "KDA":2.4420654912
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Platinum",
+        "KDA":2.3793103448
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Silver",
+        "KDA":2.0917537747
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"All",
+        "KDA":2.6948590381
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Bronze",
+        "KDA":2.0733532934
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Diamond",
+        "KDA":2.7809364548
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Gold",
+        "KDA":2.5571658615
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Grandmaster",
+        "KDA":2.9676258993
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Master",
+        "KDA":2.8251273345
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Platinum",
+        "KDA":2.6213592233
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Silver",
+        "KDA":2.4447949527
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"All",
+        "KDA":2.4088607595
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Bronze",
+        "KDA":2.2233375157
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Diamond",
+        "KDA":2.4492385787
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Gold",
+        "KDA":2.4437420986
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Grandmaster",
+        "KDA":2.2780612245
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Master",
+        "KDA":2.4078780178
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Platinum",
+        "KDA":2.4368686869
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Silver",
+        "KDA":2.2968944099
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"All",
+        "KDA":2.5847953216
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Bronze",
+        "KDA":2.3558368495
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Diamond",
+        "KDA":2.6218978102
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Gold",
+        "KDA":2.6362297496
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Grandmaster",
+        "KDA":2.3850574713
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Master",
+        "KDA":2.5893648449
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Platinum",
+        "KDA":2.6519823789
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Silver",
+        "KDA":2.5107604017
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"All",
+        "KDA":2.134939759
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Bronze",
+        "KDA":1.7378190255
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Diamond",
+        "KDA":2.1291469194
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Gold",
+        "KDA":2.0393325387
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Grandmaster",
+        "KDA":2.3709468223
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Master",
+        "KDA":2.1879518072
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Platinum",
+        "KDA":2.0876777251
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Silver",
+        "KDA":1.9189189189
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"All",
+        "KDA":1.909202454
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Bronze",
+        "KDA":1.7696335079
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Diamond",
+        "KDA":1.9300361882
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Gold",
+        "KDA":1.9399744572
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Grandmaster",
+        "KDA":1.878313253
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Master",
+        "KDA":1.8914081146
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Platinum",
+        "KDA":1.937037037
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Silver",
+        "KDA":1.8780487805
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"All",
+        "KDA":2.8321377331
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Bronze",
+        "KDA":2.1698352345
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Diamond",
+        "KDA":2.9102749638
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Gold",
+        "KDA":2.6698895028
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Grandmaster",
+        "KDA":2.9770642202
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Master",
+        "KDA":2.93979442
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Platinum",
+        "KDA":2.8118811881
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Silver",
+        "KDA":2.4113009198
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"All",
+        "KDA":3.0817391304
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Bronze",
+        "KDA":2.3862179487
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Diamond",
+        "KDA":3.1226252159
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Gold",
+        "KDA":2.9049235993
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Grandmaster",
+        "KDA":3.3395176252
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Master",
+        "KDA":3.2429078014
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Platinum",
+        "KDA":2.9846416382
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Silver",
+        "KDA":2.6084828711
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"All",
+        "KDA":3.1869009585
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Bronze",
+        "KDA":2.5727002967
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Diamond",
+        "KDA":3.2758064516
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Gold",
+        "KDA":3.0643642072
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Grandmaster",
+        "KDA":3.2909698997
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Master",
+        "KDA":3.2936378467
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Platinum",
+        "KDA":3.2208
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Silver",
+        "KDA":2.8384146341
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"All",
+        "KDA":2.0634218289
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Bronze",
+        "KDA":1.7129380054
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Diamond",
+        "KDA":2.1531531532
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Gold",
+        "KDA":1.9718309859
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Grandmaster",
+        "KDA":2.0989010989
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Master",
+        "KDA":2.1638591118
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Platinum",
+        "KDA":2.0667634253
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Silver",
+        "KDA":1.8587105624
+    }
+]
