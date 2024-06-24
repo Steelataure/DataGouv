@@ -3,6 +3,7 @@
         "Hero":"Ana",
         "Role":"Support",
         "Saison":"Saison 1",
+        "Equilibrage":"Up",
         "Pick Rate, %":7.62625,
         "Win Rate, %":50.69125
     },
@@ -10,6 +11,7 @@
         "Hero":"Ana",
         "Role":"Support",
         "Saison":"Saison 2",
+        "Equilibrage":"Null",
         "Pick Rate, %":8.595,
         "Win Rate, %":47.4025
     },
@@ -17,6 +19,7 @@
         "Hero":"Ana",
         "Role":"Support",
         "Saison":"Saison 3",
+        "Equilibrage":"Nerf",
         "Pick Rate, %":12.47,
         "Win Rate, %":49.7775
     },
@@ -24,6 +27,7 @@
         "Hero":"Ana",
         "Role":"Support",
         "Saison":"Saison 4",
+        "Equilibrage":"Nerf",
         "Pick Rate, %":10.605,
         "Win Rate, %":48.49125
     },
@@ -31,6 +35,7 @@
         "Hero":"Ashe",
         "Role":"Damage",
         "Saison":"Saison 1",
+        "Equilibrage":"Null",
         "Pick Rate, %":2.12,
         "Win Rate, %":48.2325
     },
@@ -38,6 +43,7 @@
         "Hero":"Ashe",
         "Role":"Damage",
         "Saison":"Saison 2",
+        "Equilibrage":"Null",
         "Pick Rate, %":2.66875,
         "Win Rate, %":46.29125
     },
@@ -45,6 +51,7 @@
         "Hero":"Ashe",
         "Role":"Damage",
         "Saison":"Saison 3",
+        "Equilibrage":"Up",
         "Pick Rate, %":2.8475,
         "Win Rate, %":48.38
     },
@@ -52,6 +59,7 @@
         "Hero":"Ashe",
         "Role":"Damage",
         "Saison":"Saison 4",
+        "Equilibrage":"Null",
         "Pick Rate, %":2.9225,
         "Win Rate, %":48.4925
     },
@@ -59,6 +67,7 @@
         "Hero":"Baptiste",
         "Role":"Support",
         "Saison":"Saison 1",
+        "Equilibrage":"Null",
         "Pick Rate, %":3.04875,
         "Win Rate, %":44.27
     },
@@ -66,6 +75,7 @@
         "Hero":"Baptiste",
         "Role":"Support",
         "Saison":"Saison 2",
+        "Equilibrage":"Null",
         "Pick Rate, %":2.48,
         "Win Rate, %":45.98625
     },
@@ -73,6 +83,7 @@
         "Hero":"Baptiste",
         "Role":"Support",
         "Saison":"Saison 3",
+        "Equilibrage":"Up",
         "Pick Rate, %":3.30875,
         "Win Rate, %":47.48625
     },
@@ -80,6 +91,7 @@
         "Hero":"Baptiste",
         "Role":"Support",
         "Saison":"Saison 4",
+        "Equilibrage":"Nerf",
         "Pick Rate, %":3.005,
         "Win Rate, %":47.415
     },
@@ -87,6 +99,7 @@
         "Hero":"Bastion",
         "Role":"Damage",
         "Saison":"Saison 1",
+        "Equilibrage":"Null",
         "Pick Rate, %":1.205,
         "Win Rate, %":44.5875
     },
@@ -94,6 +107,7 @@
         "Hero":"Bastion",
         "Role":"Damage",
         "Saison":"Saison 2",
+        "Equilibrage":"Null",
         "Pick Rate, %":2.90625,
         "Win Rate, %":51.58625
     },
@@ -101,6 +115,7 @@
         "Hero":"Bastion",
         "Role":"Damage",
         "Saison":"Saison 3",
+        "Equilibrage":"Nerf",
         "Pick Rate, %":2.23125,
         "Win Rate, %":46.74625
     },
@@ -108,6 +123,7 @@
         "Hero":"Bastion",
         "Role":"Damage",
         "Saison":"Saison 4",
+        "Equilibrage":"Null",
         "Pick Rate, %":1.45125,
         "Win Rate, %":43.16125
     },
@@ -115,6 +131,7 @@
         "Hero":"Brigitte",
         "Role":"Support",
         "Saison":"Saison 1",
+        "Equilibrage":"Null",
         "Pick Rate, %":1.4075,
         "Win Rate, %":51.48875
     },
@@ -122,6 +139,7 @@
         "Hero":"Brigitte",
         "Role":"Support",
         "Saison":"Saison 2",
+        "Equilibrage":"Up",
         "Pick Rate, %":0.615,
         "Win Rate, %":42.94125
     },
@@ -129,6 +147,7 @@
         "Hero":"Brigitte",
         "Role":"Support",
         "Saison":"Saison 3",
+        "Equilibrage":"Up",
         "Pick Rate, %":1.9025,
         "Win Rate, %":51.395
     },
@@ -136,6 +155,7 @@
         "Hero":"Brigitte",
         "Role":"Support",
         "Saison":"Saison 4",
+        "Equilibrage":"Up",
         "Pick Rate, %":2.1775,
         "Win Rate, %":51.325
     },
@@ -143,6 +163,7 @@
         "Hero":"Cassidy",
         "Role":"Damage",
         "Saison":"Saison 1",
+        "Equilibrage":"Null",
         "Pick Rate, %":2.94625,
         "Win Rate, %":47.325
     },
@@ -150,6 +171,7 @@
         "Hero":"Cassidy",
         "Role":"Damage",
         "Saison":"Saison 2",
+        "Equilibrage":"Null",
         "Pick Rate, %":3.2575,
         "Win Rate, %":43.6275
     },
@@ -157,6 +179,7 @@
         "Hero":"Cassidy",
         "Role":"Damage",
         "Saison":"Saison 3",
+        "Equilibrage":"Nerf",
         "Pick Rate, %":7.88,
         "Win Rate, %":48.37625
     },
@@ -164,6 +187,7 @@
         "Hero":"Cassidy",
         "Role":"Damage",
         "Saison":"Saison 4",
+        "Equilibrage":"Nerf",
         "Pick Rate, %":3.68,
         "Win Rate, %":43.755
     },
@@ -171,6 +195,7 @@
         "Hero":"D.Va",
         "Role":"Tank",
         "Saison":"Saison 1",
+        "Equilibrage":"Nerf",
         "Pick Rate, %":2.74625,
         "Win Rate, %":48.1975
     },
@@ -178,6 +203,7 @@
         "Hero":"D.Va",
         "Role":"Tank",
         "Saison":"Saison 2",
+        "Equilibrage":"Null",
         "Pick Rate, %":2.325,
         "Win Rate, %":47.855
     },
@@ -185,6 +211,7 @@
         "Hero":"D.Va",
         "Role":"Tank",
         "Saison":"Saison 3",
+        "Equilibrage":"Up",
         "Pick Rate, %":2.48,
         "Win Rate, %":47.6125
     },
@@ -192,6 +219,7 @@
         "Hero":"D.Va",
         "Role":"Tank",
         "Saison":"Saison 4",
+        "Equilibrage":"Null",
         "Pick Rate, %":2.49625,
         "Win Rate, %":45.65625
     },
@@ -199,6 +227,7 @@
         "Hero":"Doomfist",
         "Role":"Tank",
         "Saison":"Saison 1",
+        "Equilibrage":"Nerf",
         "Pick Rate, %":1.4425,
         "Win Rate, %":52.89875
     },
@@ -206,6 +235,7 @@
         "Hero":"Doomfist",
         "Role":"Tank",
         "Saison":"Saison 2",
+        "Equilibrage":"Null",
         "Pick Rate, %":1.9875,
         "Win Rate, %":50.505
     },
@@ -213,6 +243,7 @@
         "Hero":"Doomfist",
         "Role":"Tank",
         "Saison":"Saison 3",
+        "Equilibrage":"Up",
         "Pick Rate, %":2.21125,
         "Win Rate, %":49.24625
     },
@@ -220,6 +251,7 @@
         "Hero":"Doomfist",
         "Role":"Tank",
         "Saison":"Saison 4",
+        "Equilibrage":"Null",
         "Pick Rate, %":1.7075,
         "Win Rate, %":48.36125
     },
@@ -227,6 +259,7 @@
         "Hero":"Echo",
         "Role":"Damage",
         "Saison":"Saison 1",
+        "Equilibrage":"Null",
         "Pick Rate, %":0.65875,
         "Win Rate, %":48.14375
     },
@@ -234,6 +267,7 @@
         "Hero":"Echo",
         "Role":"Damage",
         "Saison":"Saison 2",
+        "Equilibrage":"Null",
         "Pick Rate, %":0.8825,
         "Win Rate, %":46.8325
     },
@@ -241,6 +275,7 @@
         "Hero":"Echo",
         "Role":"Damage",
         "Saison":"Saison 3",
+        "Equilibrage":"Up",
         "Pick Rate, %":1.30625,
         "Win Rate, %":46.3475
     },
@@ -248,6 +283,7 @@
         "Hero":"Echo",
         "Role":"Damage",
         "Saison":"Saison 4",
+        "Equilibrage":"Up",
         "Pick Rate, %":1.8775,
         "Win Rate, %":47.33875
     },
@@ -255,6 +291,7 @@
         "Hero":"Genji",
         "Role":"Damage",
         "Saison":"Saison 1",
+        "Equilibrage":"Nerf",
         "Pick Rate, %":4.9625,
         "Win Rate, %":52.49625
     },
@@ -262,6 +299,7 @@
         "Hero":"Genji",
         "Role":"Damage",
         "Saison":"Saison 2",
+        "Equilibrage":"Null",
         "Pick Rate, %":3.3075,
         "Win Rate, %":48.15625
     },
@@ -269,6 +307,7 @@
         "Hero":"Genji",
         "Role":"Damage",
         "Saison":"Saison 3",
+        "Equilibrage":"Null",
         "Pick Rate, %":5.16875,
         "Win Rate, %":49.46375
     },
@@ -276,6 +315,7 @@
         "Hero":"Genji",
         "Role":"Damage",
         "Saison":"Saison 4",
+        "Equilibrage":"Null",
         "Pick Rate, %":3.8275,
         "Win Rate, %":48.4375
     },
@@ -283,6 +323,7 @@
         "Hero":"Hanzo",
         "Role":"Damage",
         "Saison":"Saison 1",
+        "Equilibrage":"Null",
         "Pick Rate, %":1.755,
         "Win Rate, %":44.885
     },
@@ -290,6 +331,7 @@
         "Hero":"Hanzo",
         "Role":"Damage",
         "Saison":"Saison 2",
+        "Equilibrage":"Null",
         "Pick Rate, %":2.37,
         "Win Rate, %":45.515
     },
@@ -297,6 +339,7 @@
         "Hero":"Hanzo",
         "Role":"Damage",
         "Saison":"Saison 3",
+        "Equilibrage":"Null",
         "Pick Rate, %":4.21625,
         "Win Rate, %":48.51875
     },
@@ -304,6 +347,7 @@
         "Hero":"Hanzo",
         "Role":"Damage",
         "Saison":"Saison 4",
+        "Equilibrage":"Null",
         "Pick Rate, %":4.505,
         "Win Rate, %":47.5575
     },
@@ -311,6 +355,7 @@
         "Hero":"Junker Queen",
         "Role":"Tank",
         "Saison":"Saison 1",
+        "Equilibrage":"Null",
         "Pick Rate, %":1.1925,
         "Win Rate, %":52.06375
     },
@@ -318,6 +363,7 @@
         "Hero":"Junker Queen",
         "Role":"Tank",
         "Saison":"Saison 2",
+        "Equilibrage":"Up",
         "Pick Rate, %":1.1625,
         "Win Rate, %":43.9575
     },
@@ -325,6 +371,7 @@
         "Hero":"Junker Queen",
         "Role":"Tank",
         "Saison":"Saison 3",
+        "Equilibrage":"Up",
         "Pick Rate, %":1.1625,
         "Win Rate, %":47.8475
     },
@@ -332,6 +379,7 @@
         "Hero":"Junker Queen",
         "Role":"Tank",
         "Saison":"Saison 4",
+        "Equilibrage":"Up",
         "Pick Rate, %":4.65,
         "Win Rate, %":51.4975
     },
@@ -339,6 +387,7 @@
         "Hero":"Junkrat",
         "Role":"Damage",
         "Saison":"Saison 1",
+        "Equilibrage":"Nerf",
         "Pick Rate, %":2.025,
         "Win Rate, %":41.6675
     },
@@ -346,6 +395,7 @@
         "Hero":"Junkrat",
         "Role":"Damage",
         "Saison":"Saison 2",
+        "Equilibrage":"Null",
         "Pick Rate, %":2.925,
         "Win Rate, %":49.1425
     },
@@ -353,6 +403,7 @@
         "Hero":"Junkrat",
         "Role":"Damage",
         "Saison":"Saison 3",
+        "Equilibrage":"Nerf",
         "Pick Rate, %":2.1125,
         "Win Rate, %":47.25875
     },
@@ -360,6 +411,7 @@
         "Hero":"Junkrat",
         "Role":"Damage",
         "Saison":"Saison 4",
+        "Equilibrage":"Up",
         "Pick Rate, %":2.12625,
         "Win Rate, %":47.3325
     },
@@ -367,6 +419,7 @@
         "Hero":"Kiriko",
         "Role":"Support",
         "Saison":"Saison 1",
+        "Equilibrage":"Nerf",
         "Pick Rate, %":4.35,
         "Win Rate, %":50.25875
     },
@@ -374,6 +427,7 @@
         "Hero":"Kiriko",
         "Role":"Support",
         "Saison":"Saison 2",
+        "Equilibrage":"Nerf",
         "Pick Rate, %":8.8875,
         "Win Rate, %":48.60125
     },
@@ -381,6 +435,7 @@
         "Hero":"Kiriko",
         "Role":"Support",
         "Saison":"Saison 3",
+        "Equilibrage":"Null",
         "Pick Rate, %":8.215,
         "Win Rate, %":46.23875
     },
@@ -388,6 +443,7 @@
         "Hero":"Kiriko",
         "Role":"Support",
         "Saison":"Saison 4",
+        "Equilibrage":"Up",
         "Pick Rate, %":6.6725,
         "Win Rate, %":45.76375
     },
@@ -395,6 +451,7 @@
         "Hero":"Lifeweaver",
         "Role":"Support",
         "Saison":"Saison 4",
+        "Equilibrage":"Up",
         "Pick Rate, %":1.12125,
         "Win Rate, %":38.455
     },
@@ -402,6 +459,7 @@
         "Hero":"Lucio",
         "Role":"Support",
         "Saison":"Saison 1",
+        "Equilibrage":"Null",
         "Pick Rate, %":5.73625,
         "Win Rate, %":49.29375
     },
@@ -409,6 +467,7 @@
         "Hero":"Lucio",
         "Role":"Support",
         "Saison":"Saison 2",
+        "Equilibrage":"Null",
         "Pick Rate, %":3.5725,
         "Win Rate, %":49.68375
     },
@@ -416,6 +475,7 @@
         "Hero":"Lucio",
         "Role":"Support",
         "Saison":"Saison 3",
+        "Equilibrage":"Up",
         "Pick Rate, %":2.6425,
         "Win Rate, %":49.5925
     },
@@ -423,6 +483,7 @@
         "Hero":"Lucio",
         "Role":"Support",
         "Saison":"Saison 4",
+        "Equilibrage":"Null",
         "Pick Rate, %":3.3425,
         "Win Rate, %":49.21
     },
@@ -430,6 +491,7 @@
         "Hero":"Mei",
         "Role":"Damage",
         "Saison":"Saison 1",
+        "Equilibrage":"Null",
         "Pick Rate, %":0.93625,
         "Win Rate, %":53.86125
     },
@@ -437,6 +499,7 @@
         "Hero":"Mei",
         "Role":"Damage",
         "Saison":"Saison 2",
+        "Equilibrage":"Null",
         "Pick Rate, %":1.07875,
         "Win Rate, %":45.3275
     },
@@ -444,6 +507,7 @@
         "Hero":"Mei",
         "Role":"Damage",
         "Saison":"Saison 3",
+        "Equilibrage":"Up",
         "Pick Rate, %":2.01875,
         "Win Rate, %":50.2475
     },
@@ -451,6 +515,7 @@
         "Hero":"Mei",
         "Role":"Damage",
         "Saison":"Saison 4",
+        "Equilibrage":"Null",
         "Pick Rate, %":2.3525,
         "Win Rate, %":49.10875
     },
@@ -458,6 +523,7 @@
         "Hero":"Mercy",
         "Role":"Support",
         "Saison":"Saison 1",
+        "Equilibrage":"Null",
         "Pick Rate, %":5.6125,
         "Win Rate, %":48.45875
     },
@@ -465,6 +531,7 @@
         "Hero":"Mercy",
         "Role":"Support",
         "Saison":"Saison 2",
+        "Equilibrage":"Null",
         "Pick Rate, %":4.8475,
         "Win Rate, %":45.395
     },
@@ -472,6 +539,7 @@
         "Hero":"Mercy",
         "Role":"Support",
         "Saison":"Saison 3",
+        "Equilibrage":"Nerf",
         "Pick Rate, %":7.75125,
         "Win Rate, %":50.27
     },
@@ -479,6 +547,7 @@
         "Hero":"Mercy",
         "Role":"Support",
         "Saison":"Saison 4",
+        "Equilibrage":"Up",
         "Pick Rate, %":7.2625,
         "Win Rate, %":49.98375
     },
@@ -486,6 +555,7 @@
         "Hero":"Moira",
         "Role":"Support",
         "Saison":"Saison 1",
+        "Equilibrage":"Null",
         "Pick Rate, %":7.215,
         "Win Rate, %":49.03375
     },
@@ -493,6 +563,7 @@
         "Hero":"Moira",
         "Role":"Support",
         "Saison":"Saison 2",
+        "Equilibrage":"Up",
         "Pick Rate, %":5.1975,
         "Win Rate, %":43.04
     },
@@ -500,6 +571,7 @@
         "Hero":"Moira",
         "Role":"Support",
         "Saison":"Saison 3",
+        "Equilibrage":"Up",
         "Pick Rate, %":5.1575,
         "Win Rate, %":48.845
     },
@@ -507,6 +579,7 @@
         "Hero":"Moira",
         "Role":"Support",
         "Saison":"Saison 4",
+        "Equilibrage":"Up",
         "Pick Rate, %":5.36,
         "Win Rate, %":47.92375
     },
@@ -514,6 +587,7 @@
         "Hero":"Orisa",
         "Role":"Tank",
         "Saison":"Saison 1",
+        "Equilibrage":"Up",
         "Pick Rate, %":3.315,
         "Win Rate, %":45.24125
     },
@@ -521,6 +595,7 @@
         "Hero":"Orisa",
         "Role":"Tank",
         "Saison":"Saison 2",
+        "Equilibrage":"Nerf",
         "Pick Rate, %":4.11125,
         "Win Rate, %":44.38875
     },
@@ -528,6 +603,7 @@
         "Hero":"Orisa",
         "Role":"Tank",
         "Saison":"Saison 3",
+        "Equilibrage":"Nerf",
         "Pick Rate, %":2.11,
         "Win Rate, %":42.9125
     },
@@ -535,6 +611,7 @@
         "Hero":"Orisa",
         "Role":"Tank",
         "Saison":"Saison 4",
+        "Equilibrage":"Up",
         "Pick Rate, %":1.75375,
         "Win Rate, %":42.94625
     },
@@ -542,6 +619,7 @@
         "Hero":"Pharah",
         "Role":"Damage",
         "Saison":"Saison 1",
+        "Equilibrage":"Null",
         "Pick Rate, %":1.92125,
         "Win Rate, %":47.355
     },
@@ -549,6 +627,7 @@
         "Hero":"Pharah",
         "Role":"Damage",
         "Saison":"Saison 2",
+        "Equilibrage":"Null",
         "Pick Rate, %":1.72,
         "Win Rate, %":46.01875
     },
@@ -556,6 +635,7 @@
         "Hero":"Pharah",
         "Role":"Damage",
         "Saison":"Saison 3",
+        "Equilibrage":"Up",
         "Pick Rate, %":1.8775,
         "Win Rate, %":50.28125
     },
@@ -563,6 +643,7 @@
         "Hero":"Pharah",
         "Role":"Damage",
         "Saison":"Saison 4",
+        "Equilibrage":"Null",
         "Pick Rate, %":1.93125,
         "Win Rate, %":49.1975
     },
@@ -570,6 +651,7 @@
         "Hero":"Ramattra",
         "Role":"Tank",
         "Saison":"Saison 2",
+        "Equilibrage":"Null",
         "Pick Rate, %":1.9225,
         "Win Rate, %":54.805
     },
@@ -577,6 +659,7 @@
         "Hero":"Ramattra",
         "Role":"Tank",
         "Saison":"Saison 3",
+        "Equilibrage":"Nerf",
         "Pick Rate, %":2.645,
         "Win Rate, %":49.22375
     },
@@ -584,6 +667,7 @@
         "Hero":"Ramattra",
         "Role":"Tank",
         "Saison":"Saison 4",
+        "Equilibrage":"Null",
         "Pick Rate, %":2.24875,
         "Win Rate, %":49.06125
     },
@@ -591,6 +675,7 @@
         "Hero":"Reaper",
         "Role":"Damage",
         "Saison":"Saison 1",
+        "Equilibrage":"Null",
         "Pick Rate, %":2.78625,
         "Win Rate, %":49.3375
     },
@@ -598,6 +683,7 @@
         "Hero":"Reaper",
         "Role":"Damage",
         "Saison":"Saison 2",
+        "Equilibrage":"Null",
         "Pick Rate, %":2.37875,
         "Win Rate, %":46.9425
     },
@@ -605,6 +691,7 @@
         "Hero":"Reaper",
         "Role":"Damage",
         "Saison":"Saison 3",
+        "Equilibrage":"Up",
         "Pick Rate, %":2.17625,
         "Win Rate, %":47.95625
     },
@@ -612,6 +699,7 @@
         "Hero":"Reaper",
         "Role":"Damage",
         "Saison":"Saison 4",
+        "Equilibrage":"Null",
         "Pick Rate, %":2.015,
         "Win Rate, %":46.78875
     },
@@ -619,6 +707,7 @@
         "Hero":"Reinhardt",
         "Role":"Tank",
         "Saison":"Saison 1",
+        "Equilibrage":"Null",
         "Pick Rate, %":2.6325,
         "Win Rate, %":50.655
     },
@@ -626,6 +715,7 @@
         "Hero":"Reinhardt",
         "Role":"Tank",
         "Saison":"Saison 2",
+        "Equilibrage":"Null",
         "Pick Rate, %":2.39125,
         "Win Rate, %":50.24625
     },
@@ -633,6 +723,7 @@
         "Hero":"Reinhardt",
         "Role":"Tank",
         "Saison":"Saison 3",
+        "Equilibrage":"Up",
         "Pick Rate, %":5.485,
         "Win Rate, %":52.9275
     },
@@ -640,6 +731,7 @@
         "Hero":"Reinhardt",
         "Role":"Tank",
         "Saison":"Saison 4",
+        "Equilibrage":"Nerf",
         "Pick Rate, %":3.37625,
         "Win Rate, %":49.40375
     },
@@ -647,6 +739,7 @@
         "Hero":"Roadhog",
         "Role":"Tank",
         "Saison":"Saison 1",
+        "Equilibrage":"Null",
         "Pick Rate, %":2.49375,
         "Win Rate, %":45.9675
     },
@@ -654,6 +747,7 @@
         "Hero":"Roadhog",
         "Role":"Tank",
         "Saison":"Saison 2",
+        "Equilibrage":"Nerf",
         "Pick Rate, %":3.995,
         "Win Rate, %":46.1175
     },
@@ -661,6 +755,7 @@
         "Hero":"Roadhog",
         "Role":"Tank",
         "Saison":"Saison 3",
+        "Equilibrage":"Up",
         "Pick Rate, %":0.85875,
         "Win Rate, %":39.05875
     },
@@ -668,6 +763,7 @@
         "Hero":"Roadhog",
         "Role":"Tank",
         "Saison":"Saison 4",
+        "Equilibrage":"Null",
         "Pick Rate, %":0.725,
         "Win Rate, %":36.7025
     },
@@ -675,6 +771,7 @@
         "Hero":"Sigma",
         "Role":"Tank",
         "Saison":"Saison 1",
+        "Equilibrage":"Null",
         "Pick Rate, %":2.09,
         "Win Rate, %":53.56875
     },
@@ -682,6 +779,7 @@
         "Hero":"Sigma",
         "Role":"Tank",
         "Saison":"Saison 2",
+        "Equilibrage":"Null",
         "Pick Rate, %":1.99875,
         "Win Rate, %":49.065
     },
@@ -689,6 +787,7 @@
         "Hero":"Sigma",
         "Role":"Tank",
         "Saison":"Saison 3",
+        "Equilibrage":"Nerf",
         "Pick Rate, %":2.665,
         "Win Rate, %":49.7025
     },
@@ -696,6 +795,7 @@
         "Hero":"Sigma",
         "Role":"Tank",
         "Saison":"Saison 4",
+        "Equilibrage":"Up",
         "Pick Rate, %":2.1175,
         "Win Rate, %":47.15625
     },
@@ -703,6 +803,7 @@
         "Hero":"Sojourn",
         "Role":"Damage",
         "Saison":"Saison 1",
+        "Equilibrage":"Nerf",
         "Pick Rate, %":5.09,
         "Win Rate, %":46.44375
     },
@@ -710,6 +811,7 @@
         "Hero":"Sojourn",
         "Role":"Damage",
         "Saison":"Saison 2",
+        "Equilibrage":"Nerf",
         "Pick Rate, %":4.0225,
         "Win Rate, %":45.91
     },
@@ -717,6 +819,7 @@
         "Hero":"Sojourn",
         "Role":"Damage",
         "Saison":"Saison 3",
+        "Equilibrage":"Up",
         "Pick Rate, %":2.16875,
         "Win Rate, %":42.45125
     },
@@ -724,6 +827,7 @@
         "Hero":"Sojourn",
         "Role":"Damage",
         "Saison":"Saison 4",
+        "Equilibrage":"Null",
         "Pick Rate, %":1.58625,
         "Win Rate, %":42.49625
     },
@@ -731,6 +835,7 @@
         "Hero":"Soldier: 76",
         "Role":"Damage",
         "Saison":"Saison 1",
+        "Equilibrage":"Null",
         "Pick Rate, %":5.32875,
         "Win Rate, %":49.33625
     },
@@ -738,6 +843,7 @@
         "Hero":"Soldier: 76",
         "Role":"Damage",
         "Saison":"Saison 2",
+        "Equilibrage":"Null",
         "Pick Rate, %":3.985,
         "Win Rate, %":46.08625
     },
@@ -745,6 +851,7 @@
         "Hero":"Soldier: 76",
         "Role":"Damage",
         "Saison":"Saison 3",
+        "Equilibrage":"Up",
         "Pick Rate, %":5.09,
         "Win Rate, %":47.52
     },
@@ -752,6 +859,7 @@
         "Hero":"Soldier: 76",
         "Role":"Damage",
         "Saison":"Saison 4",
+        "Equilibrage":"Null",
         "Pick Rate, %":4.16125,
         "Win Rate, %":46.43375
     },
@@ -759,6 +867,7 @@
         "Hero":"Sombra",
         "Role":"Damage",
         "Saison":"Saison 1",
+        "Equilibrage":"Nerf",
         "Pick Rate, %":1.59125,
         "Win Rate, %":47.12875
     },
@@ -766,6 +875,7 @@
         "Hero":"Sombra",
         "Role":"Damage",
         "Saison":"Saison 2",
+        "Equilibrage":"Null",
         "Pick Rate, %":0.345,
         "Win Rate, %":37.06125
     },
@@ -773,6 +883,7 @@
         "Hero":"Sombra",
         "Role":"Damage",
         "Saison":"Saison 3",
+        "Equilibrage":"Up",
         "Pick Rate, %":1.415,
         "Win Rate, %":43.775
     },
@@ -780,41 +891,15 @@
         "Hero":"Sombra",
         "Role":"Damage",
         "Saison":"Saison 4",
+        "Equilibrage":"Up",
         "Pick Rate, %":1.68,
         "Win Rate, %":42.59875
-    },
-    {
-        "Hero":"Symmetra",
-        "Role":"Damage",
-        "Saison":"Saison 1",
-        "Pick Rate, %":0.6675,
-        "Win Rate, %":52.35875
-    },
-    {
-        "Hero":"Symmetra",
-        "Role":"Damage",
-        "Saison":"Saison 2",
-        "Pick Rate, %":1.94625,
-        "Win Rate, %":53.48375
-    },
-    {
-        "Hero":"Symmetra",
-        "Role":"Damage",
-        "Saison":"Saison 3",
-        "Pick Rate, %":1.37375,
-        "Win Rate, %":52.91875
-    },
-    {
-        "Hero":"Symmetra",
-        "Role":"Damage",
-        "Saison":"Saison 4",
-        "Pick Rate, %":1.28375,
-        "Win Rate, %":51.42125
     },
     {
         "Hero":"Torbjorn",
         "Role":"Damage",
         "Saison":"Saison 1",
+        "Equilibrage":"Null",
         "Pick Rate, %":1.04,
         "Win Rate, %":60.91125
     },
@@ -822,6 +907,7 @@
         "Hero":"Torbjorn",
         "Role":"Damage",
         "Saison":"Saison 2",
+        "Equilibrage":"Null",
         "Pick Rate, %":1.625,
         "Win Rate, %":50.4725
     },
@@ -829,6 +915,7 @@
         "Hero":"Torbjorn",
         "Role":"Damage",
         "Saison":"Saison 3",
+        "Equilibrage":"Nerf",
         "Pick Rate, %":1.62875,
         "Win Rate, %":51.99875
     },
@@ -836,6 +923,7 @@
         "Hero":"Torbjorn",
         "Role":"Damage",
         "Saison":"Saison 4",
+        "Equilibrage":"Null",
         "Pick Rate, %":1.7575,
         "Win Rate, %":50.51625
     },
@@ -843,6 +931,7 @@
         "Hero":"Tracer",
         "Role":"Damage",
         "Saison":"Saison 1",
+        "Equilibrage":"Nerf",
         "Pick Rate, %":1.8925,
         "Win Rate, %":48.40125
     },
@@ -850,6 +939,7 @@
         "Hero":"Tracer",
         "Role":"Damage",
         "Saison":"Saison 2",
+        "Equilibrage":"Null",
         "Pick Rate, %":1.84,
         "Win Rate, %":45.53
     },
@@ -857,6 +947,7 @@
         "Hero":"Tracer",
         "Role":"Damage",
         "Saison":"Saison 3",
+        "Equilibrage":"Null",
         "Pick Rate, %":3.23375,
         "Win Rate, %":46.96625
     },
@@ -864,6 +955,7 @@
         "Hero":"Tracer",
         "Role":"Damage",
         "Saison":"Saison 4",
+        "Equilibrage":"Null",
         "Pick Rate, %":3.51,
         "Win Rate, %":47.56875
     },
@@ -871,6 +963,7 @@
         "Hero":"Widowmaker",
         "Role":"Damage",
         "Saison":"Saison 1",
+        "Equilibrage":"Null",
         "Pick Rate, %":1.965,
         "Win Rate, %":47.94625
     },
@@ -878,6 +971,7 @@
         "Hero":"Widowmaker",
         "Role":"Damage",
         "Saison":"Saison 2",
+        "Equilibrage":"Null",
         "Pick Rate, %":3.40375,
         "Win Rate, %":49.71125
     },
@@ -885,6 +979,7 @@
         "Hero":"Widowmaker",
         "Role":"Damage",
         "Saison":"Saison 3",
+        "Equilibrage":"Nerf",
         "Pick Rate, %":2.80625,
         "Win Rate, %":47.4225
     },
@@ -892,6 +987,7 @@
         "Hero":"Widowmaker",
         "Role":"Damage",
         "Saison":"Saison 4",
+        "Equilibrage":"Null",
         "Pick Rate, %":2.68125,
         "Win Rate, %":46.02375
     },
@@ -899,6 +995,7 @@
         "Hero":"Winston",
         "Role":"Tank",
         "Saison":"Saison 1",
+        "Equilibrage":"Null",
         "Pick Rate, %":1.87375,
         "Win Rate, %":45.62375
     },
@@ -906,6 +1003,7 @@
         "Hero":"Winston",
         "Role":"Tank",
         "Saison":"Saison 2",
+        "Equilibrage":"Null",
         "Pick Rate, %":1.8,
         "Win Rate, %":45.91375
     },
@@ -913,6 +1011,7 @@
         "Hero":"Winston",
         "Role":"Tank",
         "Saison":"Saison 3",
+        "Equilibrage":"Nerf",
         "Pick Rate, %":1.7575,
         "Win Rate, %":42.68375
     },
@@ -920,6 +1019,7 @@
         "Hero":"Winston",
         "Role":"Tank",
         "Saison":"Saison 4",
+        "Equilibrage":"Up",
         "Pick Rate, %":1.9725,
         "Win Rate, %":42.6925
     },
@@ -927,6 +1027,7 @@
         "Hero":"Wrecking Ball",
         "Role":"Tank",
         "Saison":"Saison 1",
+        "Equilibrage":"Null",
         "Pick Rate, %":0.58875,
         "Win Rate, %":39.65
     },
@@ -934,6 +1035,7 @@
         "Hero":"Wrecking Ball",
         "Role":"Tank",
         "Saison":"Saison 2",
+        "Equilibrage":"Null",
         "Pick Rate, %":0.9925,
         "Win Rate, %":45.1625
     },
@@ -941,6 +1043,7 @@
         "Hero":"Wrecking Ball",
         "Role":"Tank",
         "Saison":"Saison 3",
+        "Equilibrage":"Up",
         "Pick Rate, %":2.18125,
         "Win Rate, %":48.5275
     },
@@ -948,6 +1051,7 @@
         "Hero":"Wrecking Ball",
         "Role":"Tank",
         "Saison":"Saison 4",
+        "Equilibrage":"Nerf",
         "Pick Rate, %":1.63625,
         "Win Rate, %":47.46
     },
@@ -955,6 +1059,7 @@
         "Hero":"Zarya",
         "Role":"Tank",
         "Saison":"Saison 1",
+        "Equilibrage":"Nerf",
         "Pick Rate, %":5.14375,
         "Win Rate, %":50.7425
     },
@@ -962,6 +1067,7 @@
         "Hero":"Zarya",
         "Role":"Tank",
         "Saison":"Saison 2",
+        "Equilibrage":"Up",
         "Pick Rate, %":1.25,
         "Win Rate, %":42.45375
     },
@@ -969,6 +1075,7 @@
         "Hero":"Zarya",
         "Role":"Tank",
         "Saison":"Saison 3",
+        "Equilibrage":"Null",
         "Pick Rate, %":1.86875,
         "Win Rate, %":45.23875
     },
@@ -976,6 +1083,7 @@
         "Hero":"Zarya",
         "Role":"Tank",
         "Saison":"Saison 4",
+        "Equilibrage":"Nerf",
         "Pick Rate, %":2.36625,
         "Win Rate, %":44.88
     },
@@ -983,6 +1091,7 @@
         "Hero":"Zenyatta",
         "Role":"Support",
         "Saison":"Saison 1",
+        "Equilibrage":"Null",
         "Pick Rate, %":2.54125,
         "Win Rate, %":49.50125
     },
@@ -990,6 +1099,7 @@
         "Hero":"Zenyatta",
         "Role":"Support",
         "Saison":"Saison 2",
+        "Equilibrage":"Null",
         "Pick Rate, %":2.2425,
         "Win Rate, %":48.02875
     },
@@ -997,6 +1107,7 @@
         "Hero":"Zenyatta",
         "Role":"Support",
         "Saison":"Saison 3",
+        "Equilibrage":"Up",
         "Pick Rate, %":4.31125,
         "Win Rate, %":51.84375
     },
@@ -1004,6 +1115,7 @@
         "Hero":"Zenyatta",
         "Role":"Support",
         "Saison":"Saison 4",
+        "Equilibrage":"Null",
         "Pick Rate, %":3.84625,
         "Win Rate, %":50.3175
     }

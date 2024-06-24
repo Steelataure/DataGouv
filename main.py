@@ -92,22 +92,22 @@ def Impact_Up_Nerf():
         df['Saison'] = f'Saison {i}'  # Ajouter une colonne pour identifier la saison
         dataframes.append(df)
     
-    # Concaténer tous les DataFrames en un seul DataFrame saison_df
     saison_df = pd.concat(dataframes, ignore_index=True)
     
-    # Charger le DataFrame Up_Nerf.csv
     Up_et_Nerf_df = pd.read_csv('archive/Up_Nerf.csv')
+
+    Up_et_Nerf_df_long = pd.melt(Up_et_Nerf_df, id_vars=['Hero'], var_name='Saison', value_name='Equilibrage')
     
-    # Fusionner saison_df avec Up_Nerf_df sur la colonne 'Hero'
-    fusion_df = saison_df.merge(Up_et_Nerf_df, on='Hero', how='left')
+    Up_et_Nerf_df_long['Equilibrage'] = Up_et_Nerf_df_long['Equilibrage'].fillna('Null')
     
-    # Maintenant, nous pouvons calculer l'impact des modifications sur Pick Rate et Win Rate
-    # en regroupant par 'Hero', 'Role', et 'Equilibrage'
-    impact_df = fusion_df.groupby(['Hero', 'Role', 'Saison'])[['Pick Rate, %', 'Win Rate, %']].mean().reset_index()
+    Up_et_Nerf_df_long['Saison'] = Up_et_Nerf_df_long['Saison'].str.replace('Saison ', 'Saison ')
     
-    # Écrire les résultats au format JSON
+    fusion_df = saison_df.merge(Up_et_Nerf_df_long, on=['Hero', 'Saison'], how='left')
+    
+    impact_df = fusion_df.groupby(['Hero', 'Role', 'Saison', 'Equilibrage'])[['Pick Rate, %', 'Win Rate, %']].mean().reset_index()
+    
     impact_df.to_json('impact_equilibrage.json', orient='records', indent=4)
-    
+
 def main():
     Impact_Up_Nerf()
     # Comp_selon_saison()
