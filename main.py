@@ -6,6 +6,8 @@ chemin_fichier_saison_2 = 'archive/ow2_season_02_FINAL_heroes_stats__2023-05-06.
 chemin_fichier_saison_3 = 'archive/ow2_season_03_FINAL_heroes_stats__2023-05-06.csv'
 chemin_fichier_saison_4 = 'archive/ow2_season_04_FINAL_heroes_stats__2023-05-06.csv'
 
+chemin_up_et_nerf = 'archive/Up_Nerf.csv'
+
 def WinRate_PickRate():
     df = pd.read_csv(chemin_fichier_partie_rapide)
 
@@ -79,12 +81,44 @@ def create_headshot_accuracy_json():
     else:
         print("Aucune donnée d'accuracy de headshot trouvée dans les fichiers.")
 
+def Impact_Up_Nerf():
+    # Liste pour stocker les DataFrames de chaque saison
+    dataframes = []
+    
+    # Charger les données de chaque saison dans une liste de DataFrames
+    for i in range(1, 5):
+        chemin_fichier = f'archive/ow2_season_0{i}_FINAL_heroes_stats__2023-05-06.csv'
+        df = pd.read_csv(chemin_fichier)
+        df['Saison'] = f'Saison {i}'  # Ajouter une colonne pour identifier la saison
+        dataframes.append(df)
+    
+    # Concaténer tous les DataFrames en un seul DataFrame saison_df
+    saison_df = pd.concat(dataframes, ignore_index=True)
+    
+    # Charger le DataFrame Up_Nerf.csv
+    Up_et_Nerf_df = pd.read_csv('archive/Up_Nerf.csv')
+    
+    # Fusionner saison_df avec Up_Nerf_df sur la colonne 'Hero'
+    fusion_df = saison_df.merge(Up_et_Nerf_df, on='Hero', how='left')
+    
+    # Ajouter une colonne 'Equilibrage' pour marquer Nerf ou Up pour chaque saison
+    for i in range(1, 5):
+        fusion_df.loc[fusion_df[f'Saison {i}'] == 'Nerf', f'Saison {i}'] = 'Nerf'
+        fusion_df.loc[fusion_df[f'Saison {i}'] == 'Up', f'Saison {i}'] = 'Up'
+    
+    # Maintenant, nous pouvons calculer l'impact des modifications sur Pick Rate et Win Rate
+    # en regroupant par 'Hero', 'Role', et 'Equilibrage'
+    impact_df = fusion_df.groupby(['Hero', 'Role', 'Saison'])[['Pick Rate, %', 'Win Rate, %']].mean().reset_index()
+    
+    # Écrire les résultats au format JSON
+    impact_df.to_json('impact_equilibrage.json', orient='records', indent=4)
     
 def main():
-    Comp_selon_saison()
-    WinRate_PickRate()
-    kda_global_per_champion()
-    create_headshot_accuracy_json()
+    Impact_Up_Nerf()
+    # Comp_selon_saison()
+    # WinRate_PickRate()
+    # kda_global_per_champion()
+    # create_headshot_accuracy_json()
 
 
 if __name__ == "__main__":
