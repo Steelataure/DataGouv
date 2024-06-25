@@ -82,12 +82,45 @@ def Graph_Headshot_Accuracy_By_Tier():
     plt.tight_layout()
     plt.show()
 
+
+def Graph_Best_Healers():
+    # Charger les données à partir du fichier JSON
+    best_healers_data = pd.read_json('Champion_Stats_Per_Tier.json')
+
+    # Créer le graphique
+    plt.figure(figsize=(12, 8))
+    sns.barplot(x='Healing / 10min', y='Hero', data=best_healers_data)
+    plt.title('Meilleurs guérisseurs par guérison en 10min')
+    plt.xlabel('Guérison en 10min')
+    plt.ylabel('Héros')
+    plt.xticks(rotation=45)
+    plt.tight_layout()
+    plt.show()
+
+
+def Graph_Best_Eliminators():
+    # Charger les données à partir du fichier JSON
+    best_eliminations_data = pd.read_json('Champion_Stats_Per_Tier.json')
+
+    # Créer le graphique
+    plt.figure(figsize=(12, 8))
+    sns.barplot(x='Eliminations / 10min', y='Hero', data=best_eliminations_data)
+    plt.title('Meilleurs éliminateurs par éliminations en 10min')
+    plt.xlabel('Éliminations en 10min')
+    plt.ylabel('Héros')
+    plt.xticks(rotation=45)
+    plt.tight_layout()
+    plt.show()
+    
+    
 def main():
-    Comp_selon_saison()
-    Graph_WinRate_PickRate()
-    Graph_KDA_par_champion()
-    Graph_Headshot_Accuracy_By_Tier()
-    Graph_Headshot_Accuracy()
+    # Comp_selon_saison()
+    # Graph_WinRate_PickRate()
+    # Graph_KDA_par_champion()
+    # Graph_Headshot_Accuracy()
+    # Graph_Headshot_Accuracy_By_Tier()
+    Graph_Best_Healers()
+    Graph_Best_Eliminators()
 
 if __name__ == "__main__":
     main()

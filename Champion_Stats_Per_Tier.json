@@ -1,0 +1,6914 @@
+[
+    {
+        "Hero":"Ana",
+        "Skill Tier":"All",
+        "Healing \/ 10min":7746.0,
+        "Eliminations \/ 10min":8.86
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":7357.0,
+        "Eliminations \/ 10min":7.89
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":7208.0,
+        "Eliminations \/ 10min":7.88
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":7548.0,
+        "Eliminations \/ 10min":8.39
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":7920.0,
+        "Eliminations \/ 10min":8.57
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":7933.0,
+        "Eliminations \/ 10min":9.0
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":7679.0,
+        "Eliminations \/ 10min":8.58
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":7850.0,
+        "Eliminations \/ 10min":8.28
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"All",
+        "Healing \/ 10min":8668.0,
+        "Eliminations \/ 10min":1.69
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":8393.0,
+        "Eliminations \/ 10min":1.79
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":8315.0,
+        "Eliminations \/ 10min":1.85
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":8597.0,
+        "Eliminations \/ 10min":1.59
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":8745.0,
+        "Eliminations \/ 10min":1.82
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":8555.0,
+        "Eliminations \/ 10min":1.72
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":8489.0,
+        "Eliminations \/ 10min":1.93
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":8392.0,
+        "Eliminations \/ 10min":1.81
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.82
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":14.3
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":14.74
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.49
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.85
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.13
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.33
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.54
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.45
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.33
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.86
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.29
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.88
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.35
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.99
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.06
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"All",
+        "Healing \/ 10min":8386.0,
+        "Eliminations \/ 10min":7.93
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":7882.0,
+        "Eliminations \/ 10min":7.32
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":7962.0,
+        "Eliminations \/ 10min":7.36
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":8074.0,
+        "Eliminations \/ 10min":7.84
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":8759.0,
+        "Eliminations \/ 10min":7.85
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":8444.0,
+        "Eliminations \/ 10min":7.95
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":8134.0,
+        "Eliminations \/ 10min":7.34
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":8189.0,
+        "Eliminations \/ 10min":7.76
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"All",
+        "Healing \/ 10min":8883.0,
+        "Eliminations \/ 10min":18.39
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":8472.0,
+        "Eliminations \/ 10min":17.17
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":8539.0,
+        "Eliminations \/ 10min":17.44
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":8758.0,
+        "Eliminations \/ 10min":18.01
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":9093.0,
+        "Eliminations \/ 10min":18.64
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":9090.0,
+        "Eliminations \/ 10min":19.19
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":8965.0,
+        "Eliminations \/ 10min":18.52
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":8925.0,
+        "Eliminations \/ 10min":18.48
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.27
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.83
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.88
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.04
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.48
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.02
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.64
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.16
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.77
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.4
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.01
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.02
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.25
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.91
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.73
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.24
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.05
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":14.91
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":14.71
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.16
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.53
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.21
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.33
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.35
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"All",
+        "Healing \/ 10min":1458.0,
+        "Eliminations \/ 10min":19.51
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":1458.0,
+        "Eliminations \/ 10min":18.12
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":1409.0,
+        "Eliminations \/ 10min":16.9
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":1440.0,
+        "Eliminations \/ 10min":18.94
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":1512.0,
+        "Eliminations \/ 10min":19.23
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":1429.0,
+        "Eliminations \/ 10min":19.92
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":1437.0,
+        "Eliminations \/ 10min":19.42
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":1406.0,
+        "Eliminations \/ 10min":19.35
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"All",
+        "Healing \/ 10min":6043.0,
+        "Eliminations \/ 10min":12.93
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":5733.0,
+        "Eliminations \/ 10min":11.57
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":5754.0,
+        "Eliminations \/ 10min":11.7
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":5930.0,
+        "Eliminations \/ 10min":12.39
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":6056.0,
+        "Eliminations \/ 10min":12.43
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":6030.0,
+        "Eliminations \/ 10min":13.42
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":5926.0,
+        "Eliminations \/ 10min":11.96
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":5712.0,
+        "Eliminations \/ 10min":11.71
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"All",
+        "Healing \/ 10min":8186.0,
+        "Eliminations \/ 10min":12.36
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":8423.0,
+        "Eliminations \/ 10min":10.83
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":8505.0,
+        "Eliminations \/ 10min":11.21
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":8346.0,
+        "Eliminations \/ 10min":11.63
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":8124.0,
+        "Eliminations \/ 10min":11.85
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":8163.0,
+        "Eliminations \/ 10min":12.44
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":8222.0,
+        "Eliminations \/ 10min":11.26
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":8110.0,
+        "Eliminations \/ 10min":11.19
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":21.34
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.03
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.78
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.59
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":21.11
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.53
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.97
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.41
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.15
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.21
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.03
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.48
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.07
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.39
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.09
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.31
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.23
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":13.71
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.28
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.24
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.9
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.38
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.0
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.33
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.31
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.92
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.93
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.02
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.69
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.6
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.54
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.71
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.56
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.62
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.54
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.87
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.34
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.57
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.56
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.1
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.07
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.89
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.91
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.67
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.49
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.37
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.27
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.74
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.37
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.89
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.22
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.47
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.71
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.01
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.67
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.7
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"All",
+        "Healing \/ 10min":8303.0,
+        "Eliminations \/ 10min":10.03
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":7466.0,
+        "Eliminations \/ 10min":7.59
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":7712.0,
+        "Eliminations \/ 10min":8.3
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":7798.0,
+        "Eliminations \/ 10min":8.86
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":8325.0,
+        "Eliminations \/ 10min":9.98
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":8229.0,
+        "Eliminations \/ 10min":9.52
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":7797.0,
+        "Eliminations \/ 10min":8.17
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":7859.0,
+        "Eliminations \/ 10min":8.28
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.04
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.24
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.21
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.32
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.26
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.03
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.11
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.22
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":21.16
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.17
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.43
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.64
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":21.55
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":21.58
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.66
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.08
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.43
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.53
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.94
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.62
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.25
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.43
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.43
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.52
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.25
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.19
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.31
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.77
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.42
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.64
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.86
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.47
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"All",
+        "Healing \/ 10min":7522.0,
+        "Eliminations \/ 10min":13.38
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":6917.0,
+        "Eliminations \/ 10min":10.88
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":7128.0,
+        "Eliminations \/ 10min":12.16
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":7248.0,
+        "Eliminations \/ 10min":12.79
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":7504.0,
+        "Eliminations \/ 10min":13.0
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":7357.0,
+        "Eliminations \/ 10min":12.86
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":7074.0,
+        "Eliminations \/ 10min":11.06
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":7017.0,
+        "Eliminations \/ 10min":11.64
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.03
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.98
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.93
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.59
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.39
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.91
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.89
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.14
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.08
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.21
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.37
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.11
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.45
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.06
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.58
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.45
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.23
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.61
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.96
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.75
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.4
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.45
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.16
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":14.88
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.81
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":14.93
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":14.53
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.44
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.02
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.33
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.64
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.74
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.8
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":14.0
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.08
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.36
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.14
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.88
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.78
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.58
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.36
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.52
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.69
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.95
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.7
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.59
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.11
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.46
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":21.07
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":22.01
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.65
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.4
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":21.57
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.71
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.86
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":22.25
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.86
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.12
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.57
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.36
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.85
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.73
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.9
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.91
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.0
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.11
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.59
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.74
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.53
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.34
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.79
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.1
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.15
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.89
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.33
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.35
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.92
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.38
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.63
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.9
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"All",
+        "Healing \/ 10min":8419.0,
+        "Eliminations \/ 10min":9.72
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":7823.0,
+        "Eliminations \/ 10min":8.9
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":7938.0,
+        "Eliminations \/ 10min":8.99
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":8101.0,
+        "Eliminations \/ 10min":9.13
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":8429.0,
+        "Eliminations \/ 10min":9.59
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":8473.0,
+        "Eliminations \/ 10min":10.0
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":8371.0,
+        "Eliminations \/ 10min":9.72
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":8299.0,
+        "Eliminations \/ 10min":9.3
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"All",
+        "Healing \/ 10min":8815.0,
+        "Eliminations \/ 10min":2.03
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":8641.0,
+        "Eliminations \/ 10min":1.98
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":8826.0,
+        "Eliminations \/ 10min":2.07
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":8858.0,
+        "Eliminations \/ 10min":1.99
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":8913.0,
+        "Eliminations \/ 10min":1.82
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":8716.0,
+        "Eliminations \/ 10min":2.04
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":8712.0,
+        "Eliminations \/ 10min":1.92
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":8587.0,
+        "Eliminations \/ 10min":2.02
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.89
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.68
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.59
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.12
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.78
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.65
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.76
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.71
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.24
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.78
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.53
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.65
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.47
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.68
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.49
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.97
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"All",
+        "Healing \/ 10min":9041.0,
+        "Eliminations \/ 10min":8.55
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":8544.0,
+        "Eliminations \/ 10min":7.95
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":8521.0,
+        "Eliminations \/ 10min":8.07
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":8689.0,
+        "Eliminations \/ 10min":7.97
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":9002.0,
+        "Eliminations \/ 10min":8.53
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":8992.0,
+        "Eliminations \/ 10min":9.2
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":8894.0,
+        "Eliminations \/ 10min":8.85
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":8908.0,
+        "Eliminations \/ 10min":8.61
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"All",
+        "Healing \/ 10min":9105.0,
+        "Eliminations \/ 10min":17.82
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":8795.0,
+        "Eliminations \/ 10min":15.91
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":8993.0,
+        "Eliminations \/ 10min":17.19
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":9008.0,
+        "Eliminations \/ 10min":17.43
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":9336.0,
+        "Eliminations \/ 10min":17.66
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":9199.0,
+        "Eliminations \/ 10min":17.85
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":9213.0,
+        "Eliminations \/ 10min":16.57
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":9376.0,
+        "Eliminations \/ 10min":16.2
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.94
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.11
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.1
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.3
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.6
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.5
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.54
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.0
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.08
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":14.91
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.76
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.78
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.58
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.82
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.07
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.3
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.64
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.6
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.38
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.14
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.65
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.98
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.26
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.86
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"All",
+        "Healing \/ 10min":1314.0,
+        "Eliminations \/ 10min":19.66
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":1265.0,
+        "Eliminations \/ 10min":18.36
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":1298.0,
+        "Eliminations \/ 10min":19.01
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":1320.0,
+        "Eliminations \/ 10min":19.49
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":1306.0,
+        "Eliminations \/ 10min":19.13
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":1336.0,
+        "Eliminations \/ 10min":20.43
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":1302.0,
+        "Eliminations \/ 10min":20.08
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":1311.0,
+        "Eliminations \/ 10min":19.68
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"All",
+        "Healing \/ 10min":6446.0,
+        "Eliminations \/ 10min":14.28
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":6351.0,
+        "Eliminations \/ 10min":12.57
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":6496.0,
+        "Eliminations \/ 10min":13.71
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":6422.0,
+        "Eliminations \/ 10min":12.84
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":6409.0,
+        "Eliminations \/ 10min":14.3
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":6239.0,
+        "Eliminations \/ 10min":14.84
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":6302.0,
+        "Eliminations \/ 10min":13.56
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":6306.0,
+        "Eliminations \/ 10min":13.24
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"All",
+        "Healing \/ 10min":7590.0,
+        "Eliminations \/ 10min":12.74
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":7879.0,
+        "Eliminations \/ 10min":12.1
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":8149.0,
+        "Eliminations \/ 10min":12.03
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":7923.0,
+        "Eliminations \/ 10min":12.53
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":7836.0,
+        "Eliminations \/ 10min":12.59
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":7346.0,
+        "Eliminations \/ 10min":13.04
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":7444.0,
+        "Eliminations \/ 10min":12.96
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":7490.0,
+        "Eliminations \/ 10min":12.68
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":21.42
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.19
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.91
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.69
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.94
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":21.21
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.93
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.13
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.24
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.2
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.72
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.12
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.48
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.72
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.99
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.95
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.23
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.73
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.81
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.47
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.93
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.22
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.6
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.49
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.39
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.2
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.04
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.68
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.3
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.85
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.62
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.26
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.1
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.25
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.63
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.8
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.32
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.11
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.01
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.56
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.96
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.83
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.58
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.62
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.81
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.84
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.87
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.67
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.46
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.36
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.66
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.73
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.26
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.05
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.95
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.19
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"All",
+        "Healing \/ 10min":8768.0,
+        "Eliminations \/ 10min":11.27
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":8342.0,
+        "Eliminations \/ 10min":10.91
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":8382.0,
+        "Eliminations \/ 10min":11.05
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":8508.0,
+        "Eliminations \/ 10min":10.54
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":8704.0,
+        "Eliminations \/ 10min":11.49
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":8887.0,
+        "Eliminations \/ 10min":11.52
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":8607.0,
+        "Eliminations \/ 10min":13.16
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":9015.0,
+        "Eliminations \/ 10min":11.86
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.71
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.52
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.36
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.15
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.2
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.96
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.76
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.93
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":21.17
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.25
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.1
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.73
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":21.16
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":21.72
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":21.89
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":22.24
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.82
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.07
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.2
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.86
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.48
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.15
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.71
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.04
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.8
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.08
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.58
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.64
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.41
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.37
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.07
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.11
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"All",
+        "Healing \/ 10min":7705.0,
+        "Eliminations \/ 10min":12.78
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":6970.0,
+        "Eliminations \/ 10min":10.24
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":7254.0,
+        "Eliminations \/ 10min":11.01
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":7665.0,
+        "Eliminations \/ 10min":12.97
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":7437.0,
+        "Eliminations \/ 10min":12.2
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":7371.0,
+        "Eliminations \/ 10min":11.57
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":7352.0,
+        "Eliminations \/ 10min":11.35
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":7015.0,
+        "Eliminations \/ 10min":10.0
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.97
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.3
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.57
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.6
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.07
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.05
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.75
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.68
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.72
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.27
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.68
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.22
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.8
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.88
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.54
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.2
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.12
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.85
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.96
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.88
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.71
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.89
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.93
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.66
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":14.79
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":14.54
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":13.48
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.21
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.07
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":14.94
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":14.31
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":13.75
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.78
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":14.39
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.24
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.28
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.19
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.12
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.78
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.58
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.35
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.4
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.01
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.18
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.96
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.54
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.33
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.25
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.27
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.95
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.05
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.07
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.36
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.27
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.93
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.63
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.76
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.61
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.76
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.42
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.06
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.55
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.72
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.6
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.28
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.28
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.5
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.87
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.05
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.5
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.96
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.97
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.53
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.66
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.4
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.33
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.59
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.69
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.29
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.18
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.22
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.8
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.9
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.3
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.79
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.18
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.07
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.05
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"All",
+        "Healing \/ 10min":8686.0,
+        "Eliminations \/ 10min":9.46
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":7483.0,
+        "Eliminations \/ 10min":8.37
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":7875.0,
+        "Eliminations \/ 10min":8.88
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":8251.0,
+        "Eliminations \/ 10min":9.21
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":8650.0,
+        "Eliminations \/ 10min":9.53
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":8920.0,
+        "Eliminations \/ 10min":9.7
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":9092.0,
+        "Eliminations \/ 10min":9.75
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":9221.0,
+        "Eliminations \/ 10min":9.45
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"All",
+        "Healing \/ 10min":8899.0,
+        "Eliminations \/ 10min":1.75
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":8563.0,
+        "Eliminations \/ 10min":1.74
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":8802.0,
+        "Eliminations \/ 10min":1.89
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":9009.0,
+        "Eliminations \/ 10min":1.81
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":9066.0,
+        "Eliminations \/ 10min":1.77
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":8963.0,
+        "Eliminations \/ 10min":1.76
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":8721.0,
+        "Eliminations \/ 10min":1.71
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":8478.0,
+        "Eliminations \/ 10min":1.56
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.11
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.72
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.64
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.37
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.1
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.6
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.68
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.36
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.11
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.44
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.04
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.04
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.03
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.63
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.74
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.77
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"All",
+        "Healing \/ 10min":8816.0,
+        "Eliminations \/ 10min":8.26
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":7872.0,
+        "Eliminations \/ 10min":7.23
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":8332.0,
+        "Eliminations \/ 10min":7.51
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":8616.0,
+        "Eliminations \/ 10min":7.8
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":8895.0,
+        "Eliminations \/ 10min":8.06
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":8994.0,
+        "Eliminations \/ 10min":8.42
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":8962.0,
+        "Eliminations \/ 10min":8.82
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":8821.0,
+        "Eliminations \/ 10min":9.22
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"All",
+        "Healing \/ 10min":9245.0,
+        "Eliminations \/ 10min":17.87
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":8239.0,
+        "Eliminations \/ 10min":16.49
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":8762.0,
+        "Eliminations \/ 10min":17.33
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":9121.0,
+        "Eliminations \/ 10min":17.78
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":9395.0,
+        "Eliminations \/ 10min":18.1
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":9506.0,
+        "Eliminations \/ 10min":18.06
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":9388.0,
+        "Eliminations \/ 10min":17.85
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":9241.0,
+        "Eliminations \/ 10min":17.42
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.03
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.24
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.26
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.83
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.2
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.22
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.96
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.32
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.21
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.19
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.04
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.77
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.37
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.7
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.53
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.88
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.56
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":13.52
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":14.63
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.19
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.69
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.0
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.85
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.59
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"All",
+        "Healing \/ 10min":1326.0,
+        "Eliminations \/ 10min":19.15
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":1341.0,
+        "Eliminations \/ 10min":17.0
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":1341.0,
+        "Eliminations \/ 10min":18.01
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":1331.0,
+        "Eliminations \/ 10min":18.85
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":1319.0,
+        "Eliminations \/ 10min":19.32
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":1317.0,
+        "Eliminations \/ 10min":19.59
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":1319.0,
+        "Eliminations \/ 10min":19.39
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":1320.0,
+        "Eliminations \/ 10min":18.99
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"All",
+        "Healing \/ 10min":6394.0,
+        "Eliminations \/ 10min":13.99
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":6070.0,
+        "Eliminations \/ 10min":12.71
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":6313.0,
+        "Eliminations \/ 10min":13.55
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":6402.0,
+        "Eliminations \/ 10min":14.0
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":6458.0,
+        "Eliminations \/ 10min":14.24
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":6454.0,
+        "Eliminations \/ 10min":14.34
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":6362.0,
+        "Eliminations \/ 10min":14.13
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":6213.0,
+        "Eliminations \/ 10min":13.37
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"All",
+        "Healing \/ 10min":7048.0,
+        "Eliminations \/ 10min":12.73
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":7908.0,
+        "Eliminations \/ 10min":10.8
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":7847.0,
+        "Eliminations \/ 10min":11.89
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":7637.0,
+        "Eliminations \/ 10min":12.42
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":7310.0,
+        "Eliminations \/ 10min":12.81
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":6846.0,
+        "Eliminations \/ 10min":12.95
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":6456.0,
+        "Eliminations \/ 10min":13.22
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":6189.0,
+        "Eliminations \/ 10min":13.02
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":21.07
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.97
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.47
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":21.26
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":21.49
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":21.55
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.88
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.91
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.37
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.34
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.0
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.4
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.57
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.6
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.31
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.56
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.03
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":14.24
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.4
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.34
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.09
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.56
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.66
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.76
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.72
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":14.98
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.33
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.11
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.62
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.97
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.16
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.28
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.28
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":14.52
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.53
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.66
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.32
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.89
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.86
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.12
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.95
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.34
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.62
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.52
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.13
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.31
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.19
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.68
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.76
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.9
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.82
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.47
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.97
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.25
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.16
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.37
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"All",
+        "Healing \/ 10min":9108.0,
+        "Eliminations \/ 10min":10.87
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":7846.0,
+        "Eliminations \/ 10min":9.23
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":8307.0,
+        "Eliminations \/ 10min":10.04
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":8720.0,
+        "Eliminations \/ 10min":10.32
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":9035.0,
+        "Eliminations \/ 10min":10.78
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":9312.0,
+        "Eliminations \/ 10min":11.23
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":9511.0,
+        "Eliminations \/ 10min":11.49
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":9920.0,
+        "Eliminations \/ 10min":11.74
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.02
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.49
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.9
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.57
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.26
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.52
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.36
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.89
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.73
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.93
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.49
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.24
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.91
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":21.42
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":21.35
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":21.08
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.72
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.21
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.59
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.4
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.88
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.16
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.95
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.22
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.31
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.51
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.78
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.31
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.16
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.69
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.9
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.78
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"All",
+        "Healing \/ 10min":8452.0,
+        "Eliminations \/ 10min":12.11
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":7502.0,
+        "Eliminations \/ 10min":11.28
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":7900.0,
+        "Eliminations \/ 10min":12.17
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":8148.0,
+        "Eliminations \/ 10min":12.52
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":8437.0,
+        "Eliminations \/ 10min":12.48
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":8648.0,
+        "Eliminations \/ 10min":12.36
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":8716.0,
+        "Eliminations \/ 10min":11.75
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":8791.0,
+        "Eliminations \/ 10min":10.82
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.83
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.62
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.3
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.89
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.09
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.01
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.75
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.07
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.74
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.12
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.35
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.33
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.88
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.11
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.02
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.47
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.51
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.63
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.52
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.31
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.71
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.96
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.73
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.14
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.25
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":13.85
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.5
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.88
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.2
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.63
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.64
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.5
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.72
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":14.89
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.99
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.11
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.49
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.08
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.29
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.0
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.31
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.46
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.74
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.51
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.18
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.72
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.94
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.58
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.03
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.72
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.49
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.33
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.3
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.3
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.95
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.86
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.68
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.75
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.5
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.9
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.06
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.96
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.53
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.6
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.8
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.7
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.19
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.68
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.03
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.09
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.71
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.88
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.01
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.77
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.21
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.33
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.97
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.44
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.66
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.37
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.45
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.66
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.96
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.62
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.34
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.85
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.17
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.25
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"All",
+        "Healing \/ 10min":8181.0,
+        "Eliminations \/ 10min":9.28
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":7135.0,
+        "Eliminations \/ 10min":8.66
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":7495.0,
+        "Eliminations \/ 10min":8.99
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":7839.0,
+        "Eliminations \/ 10min":9.15
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":8186.0,
+        "Eliminations \/ 10min":9.41
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":8396.0,
+        "Eliminations \/ 10min":9.48
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":8473.0,
+        "Eliminations \/ 10min":9.25
+    },
+    {
+        "Hero":"Ana",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":8641.0,
+        "Eliminations \/ 10min":8.96
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"All",
+        "Healing \/ 10min":9096.0,
+        "Eliminations \/ 10min":1.8
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":8912.0,
+        "Eliminations \/ 10min":2.08
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":9065.0,
+        "Eliminations \/ 10min":1.92
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":9229.0,
+        "Eliminations \/ 10min":1.87
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":9246.0,
+        "Eliminations \/ 10min":1.84
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":9112.0,
+        "Eliminations \/ 10min":1.79
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":8849.0,
+        "Eliminations \/ 10min":1.72
+    },
+    {
+        "Hero":"Mercy",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":8508.0,
+        "Eliminations \/ 10min":1.5
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.3
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.33
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.91
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.63
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.32
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.8
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.79
+    },
+    {
+        "Hero":"Genji",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.22
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.94
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.51
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.14
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.56
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.03
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.3
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.03
+    },
+    {
+        "Hero":"Cassidy",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.65
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"All",
+        "Healing \/ 10min":8518.0,
+        "Eliminations \/ 10min":8.16
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":7804.0,
+        "Eliminations \/ 10min":7.39
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":8183.0,
+        "Eliminations \/ 10min":7.61
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":8426.0,
+        "Eliminations \/ 10min":7.71
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":8618.0,
+        "Eliminations \/ 10min":8.0
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":8643.0,
+        "Eliminations \/ 10min":8.37
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":8524.0,
+        "Eliminations \/ 10min":8.6
+    },
+    {
+        "Hero":"Kiriko",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":8460.0,
+        "Eliminations \/ 10min":9.07
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.25
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.05
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.54
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.13
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.52
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.55
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.08
+    },
+    {
+        "Hero":"Hanzo",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.23
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"All",
+        "Healing \/ 10min":9498.0,
+        "Eliminations \/ 10min":18.03
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":8573.0,
+        "Eliminations \/ 10min":17.16
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":9047.0,
+        "Eliminations \/ 10min":17.65
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":9400.0,
+        "Eliminations \/ 10min":17.91
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":9660.0,
+        "Eliminations \/ 10min":18.17
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":9703.0,
+        "Eliminations \/ 10min":18.19
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":9486.0,
+        "Eliminations \/ 10min":17.8
+    },
+    {
+        "Hero":"Moira",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":9405.0,
+        "Eliminations \/ 10min":17.37
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.35
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":14.97
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.86
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.22
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.46
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.45
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.74
+    },
+    {
+        "Hero":"Reinhardt",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.02
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.39
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":14.17
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":14.75
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.31
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.64
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.67
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.29
+    },
+    {
+        "Hero":"Widowmaker",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":14.77
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"All",
+        "Healing \/ 10min":1299.0,
+        "Eliminations \/ 10min":19.17
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":1316.0,
+        "Eliminations \/ 10min":17.84
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":1322.0,
+        "Eliminations \/ 10min":18.64
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":1303.0,
+        "Eliminations \/ 10min":18.95
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":1296.0,
+        "Eliminations \/ 10min":19.32
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":1296.0,
+        "Eliminations \/ 10min":19.51
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":1297.0,
+        "Eliminations \/ 10min":19.0
+    },
+    {
+        "Hero":"Soldier: 76",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":1314.0,
+        "Eliminations \/ 10min":18.52
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"All",
+        "Healing \/ 10min":6265.0,
+        "Eliminations \/ 10min":13.88
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":5970.0,
+        "Eliminations \/ 10min":13.53
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":6200.0,
+        "Eliminations \/ 10min":13.96
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":6306.0,
+        "Eliminations \/ 10min":14.07
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":6331.0,
+        "Eliminations \/ 10min":14.2
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":6272.0,
+        "Eliminations \/ 10min":14.08
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":6129.0,
+        "Eliminations \/ 10min":13.39
+    },
+    {
+        "Hero":"Zenyatta",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":6078.0,
+        "Eliminations \/ 10min":12.72
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.73
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.21
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.35
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.95
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":21.05
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.8
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.96
+    },
+    {
+        "Hero":"D.Va",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.78
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"All",
+        "Healing \/ 10min":6915.0,
+        "Eliminations \/ 10min":12.71
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":7699.0,
+        "Eliminations \/ 10min":11.51
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":7745.0,
+        "Eliminations \/ 10min":11.97
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":7496.0,
+        "Eliminations \/ 10min":12.4
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":7094.0,
+        "Eliminations \/ 10min":12.85
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":6659.0,
+        "Eliminations \/ 10min":13.06
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":6260.0,
+        "Eliminations \/ 10min":12.94
+    },
+    {
+        "Hero":"Lucio",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":6171.0,
+        "Eliminations \/ 10min":12.92
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.83
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.67
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.21
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.6
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.84
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.14
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.11
+    },
+    {
+        "Hero":"Tracer",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.09
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.87
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.24
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.67
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.9
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.03
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.89
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.3
+    },
+    {
+        "Hero":"Junkrat",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.42
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.19
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.44
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.19
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.73
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.36
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.66
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.52
+    },
+    {
+        "Hero":"Ashe",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.39
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.68
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.61
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.83
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.38
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.8
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.98
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.62
+    },
+    {
+        "Hero":"Zarya",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.07
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"All",
+        "Healing \/ 10min":8825.0,
+        "Eliminations \/ 10min":10.91
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":7733.0,
+        "Eliminations \/ 10min":9.95
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":8197.0,
+        "Eliminations \/ 10min":10.22
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":8493.0,
+        "Eliminations \/ 10min":10.52
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":8834.0,
+        "Eliminations \/ 10min":10.86
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":9034.0,
+        "Eliminations \/ 10min":11.32
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":9122.0,
+        "Eliminations \/ 10min":11.23
+    },
+    {
+        "Hero":"Baptiste",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":9507.0,
+        "Eliminations \/ 10min":11.22
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.12
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":14.89
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.65
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.54
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.14
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.55
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.05
+    },
+    {
+        "Hero":"Roadhog",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.08
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.88
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.89
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.47
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.87
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.09
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.14
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.38
+    },
+    {
+        "Hero":"Reaper",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.09
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.85
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.08
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.03
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.69
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":21.12
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":21.16
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.89
+    },
+    {
+        "Hero":"Pharah",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.73
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.22
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.57
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.41
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.95
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.41
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.57
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.08
+    },
+    {
+        "Hero":"Sigma",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.23
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.34
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.34
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.07
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.81
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.27
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.91
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.67
+    },
+    {
+        "Hero":"Doomfist",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.39
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"All",
+        "Healing \/ 10min":8420.0,
+        "Eliminations \/ 10min":12.2
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":7610.0,
+        "Eliminations \/ 10min":11.93
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":7968.0,
+        "Eliminations \/ 10min":12.48
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":8198.0,
+        "Eliminations \/ 10min":12.66
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":8447.0,
+        "Eliminations \/ 10min":12.6
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":8594.0,
+        "Eliminations \/ 10min":12.33
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":8581.0,
+        "Eliminations \/ 10min":11.56
+    },
+    {
+        "Hero":"Brigitte",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":8702.0,
+        "Eliminations \/ 10min":10.54
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.98
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.19
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.84
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.13
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.12
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.0
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.57
+    },
+    {
+        "Hero":"Mei",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.04
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.23
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.33
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.41
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.9
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.36
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.55
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.06
+    },
+    {
+        "Hero":"Orisa",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.04
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.56
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.33
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.69
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.17
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.68
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.9
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.44
+    },
+    {
+        "Hero":"Winston",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.96
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.4
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":14.18
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.31
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.19
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.47
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.76
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.6
+    },
+    {
+        "Hero":"Sombra",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.24
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.6
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.7
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.17
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.53
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.85
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.74
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.29
+    },
+    {
+        "Hero":"Bastion",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.66
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.0
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.48
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.03
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.31
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.27
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.94
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.3
+    },
+    {
+        "Hero":"Symmetra",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.29
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.42
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":15.87
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.6
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.11
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.48
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.69
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.55
+    },
+    {
+        "Hero":"Wrecking Ball",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.49
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.68
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.32
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.3
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.72
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.89
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.87
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.21
+    },
+    {
+        "Hero":"Ramattra",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.68
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.84
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.66
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.98
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.15
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.14
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.74
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.29
+    },
+    {
+        "Hero":"Torbjorn",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.28
+    },
+    {
+        "Hero":"Lifeweaver",
+        "Skill Tier":"All",
+        "Healing \/ 10min":8983.0,
+        "Eliminations \/ 10min":3.8
+    },
+    {
+        "Hero":"Lifeweaver",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":8232.0,
+        "Eliminations \/ 10min":4.11
+    },
+    {
+        "Hero":"Lifeweaver",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":8689.0,
+        "Eliminations \/ 10min":3.91
+    },
+    {
+        "Hero":"Lifeweaver",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":9006.0,
+        "Eliminations \/ 10min":3.79
+    },
+    {
+        "Hero":"Lifeweaver",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":9164.0,
+        "Eliminations \/ 10min":3.82
+    },
+    {
+        "Hero":"Lifeweaver",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":9103.0,
+        "Eliminations \/ 10min":3.75
+    },
+    {
+        "Hero":"Lifeweaver",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":8647.0,
+        "Eliminations \/ 10min":3.87
+    },
+    {
+        "Hero":"Lifeweaver",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":7877.0,
+        "Eliminations \/ 10min":3.97
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.51
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.07
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.26
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":17.97
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.67
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.91
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.85
+    },
+    {
+        "Hero":"Sojourn",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.68
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.33
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.17
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.25
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.81
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.45
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.8
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.56
+    },
+    {
+        "Hero":"Junker Queen",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":20.02
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"All",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.97
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Bronze",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":16.88
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Silver",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.13
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Gold",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.56
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Platinum",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":18.87
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Diamond",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.4
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Master",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.39
+    },
+    {
+        "Hero":"Echo",
+        "Skill Tier":"Grandmaster",
+        "Healing \/ 10min":null,
+        "Eliminations \/ 10min":19.43
+    }
+]

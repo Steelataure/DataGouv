@@ -95,26 +95,54 @@ def Impact_Up_Nerf():
     saison_df = pd.concat(dataframes, ignore_index=True)
     
     Up_et_Nerf_df = pd.read_csv('archive/Up_Nerf.csv')
-
     Up_et_Nerf_df_long = pd.melt(Up_et_Nerf_df, id_vars=['Hero'], var_name='Saison', value_name='Equilibrage')
-    
     Up_et_Nerf_df_long['Equilibrage'] = Up_et_Nerf_df_long['Equilibrage'].fillna('Null')
-    
     Up_et_Nerf_df_long['Saison'] = Up_et_Nerf_df_long['Saison'].str.replace('Saison ', 'Saison ')
     
     fusion_df = saison_df.merge(Up_et_Nerf_df_long, on=['Hero', 'Saison'], how='left')
-    
     impact_df = fusion_df.groupby(['Hero', 'Role', 'Saison', 'Equilibrage'])[['Pick Rate, %', 'Win Rate, %']].mean().reset_index()
     
     impact_df.to_json('impact_equilibrage.json', orient='records', indent=4)
 
+def champion_stats_per_tier():
+    print("Calcul des statistiques des champions par rang...")
+
+    # Définir les chemins des fichiers pour chaque saison
+    files = [f'archive/ow2_season_0{i}_FINAL_heroes_stats__2023-05-06.csv' for i in range(1, 5)]
+    all_data = []
+
+    for file_path in files:
+        df = pd.read_csv(file_path)
+        # Vérifier si les colonnes nécessaires sont présentes
+        if 'Hero' in df.columns and 'Skill Tier' in df.columns \
+                and 'Eliminations / 10min' in df.columns:
+            # Nettoyer les données pour supprimer les lignes avec des valeurs manquantes
+            df_cleaned = df.dropna(subset=['Hero', 'Skill Tier', 'Eliminations / 10min'])
+            # Sélectionner uniquement les colonnes nécessaires
+            df_selected = df_cleaned[['Hero', 'Skill Tier', 'Eliminations / 10min']]
+            # Vérifier si la colonne de guérison est disponible avant de l'ajouter
+            if 'Healing / 10min' in df.columns:
+                df_selected['Healing / 10min'] = df_cleaned['Healing / 10min']
+            else:
+                df_selected['Healing / 10min'] = None
+            all_data.append(df_selected)
+
+    if all_data:
+        # Concaténer tous les DataFrames en un seul DataFrame
+        combined_df = pd.concat(all_data)
+        # Réorganiser les colonnes pour avoir la colonne de guérison avant celle des éliminations
+        combined_df = combined_df[['Hero', 'Skill Tier', 'Healing / 10min', 'Eliminations / 10min']]
+        # Enregistrer les données dans un fichier JSON
+        combined_df.to_json('Champion_Stats_Per_Tier.json', orient='records', indent=4)
+        
 def main():
-    Impact_Up_Nerf()
     # Comp_selon_saison()
     # WinRate_PickRate()
     # kda_global_per_champion()
     # create_headshot_accuracy_json()
-
+    # Impact_Up_Nerf()
+    champion_stats_per_tier()
+ 
 
 if __name__ == "__main__":
     main()
