@@ -6,7 +6,7 @@ import seaborn as sns
 def Graph_WinRate_PickRate():
     win_rate_par_rank_par_champ = pd.read_json('WinRate_PickRate.json')
 
-    plt.figure(figsize=(14, 10))
+    plt.figure(figsize=(20, 10))
     sns.barplot(x='Pick Rate, %', y='Hero', hue='Skill Tier', data=win_rate_par_rank_par_champ)
     plt.title('Taux de sélection par Héros et par Rank')
     plt.legend(title='Skill Tier')
@@ -45,7 +45,7 @@ def Graph_KDA_par_champion():
     data_list.append(kda_data)
 
     plt.figure(figsize=(10, 6))
-    sns.barplot(x='KDA', y='Hero', hue='Skill Tier', data=kda_data)
+    sns.barplot(x='KDA', y='Hero', hue='Skill Tier', data=kda_data, ci=None)
     plt.title(f'KDA par Champion')
     plt.xlabel('KDA')
     plt.ylabel('Héros')
@@ -60,7 +60,7 @@ def Graph_Headshot_Accuracy():
     headshot_data = pd.read_json(chemin_fichier)
 
     plt.figure(figsize=(10, 6))
-    sns.barplot(x='Crit Accuracy, %', y='Hero', hue='Skill Tier', data=headshot_data)
+    sns.barplot(x='Crit Accuracy, %', y='Hero', hue='Skill Tier', data=headshot_data, ci=None)
     plt.title('Accuracy des Headshots par Champion et par Rank')
     plt.xlabel('Accuracy des Headshots (%)')
     plt.ylabel('Héros')
@@ -74,7 +74,7 @@ def Graph_Headshot_Accuracy_By_Tier():
     headshot_data = pd.read_json(chemin_fichier)
 
     plt.figure(figsize=(10, 6))
-    sns.barplot(x='Skill Tier', y='Crit Accuracy, %', data=headshot_data)
+    sns.barplot(x='Skill Tier', y='Crit Accuracy, %', data=headshot_data, ci=None)
     plt.title('Accuracy des Headshots par Rank')
     plt.xlabel('Skill Tier')
     plt.ylabel('Accuracy des Headshots (%)')
@@ -89,7 +89,7 @@ def Graph_Best_Healers():
 
     # Créer le graphique
     plt.figure(figsize=(12, 8))
-    sns.barplot(x='Healing / 10min', y='Hero', data=best_healers_data)
+    sns.barplot(x='Healing / 10min', y='Hero', data=best_healers_data, ci=None)
     plt.title('Meilleurs guérisseurs par guérison en 10min')
     plt.xlabel('Guérison en 10min')
     plt.ylabel('Héros')
@@ -104,7 +104,7 @@ def Graph_Best_Eliminators():
 
     # Créer le graphique
     plt.figure(figsize=(12, 8))
-    sns.barplot(x='Eliminations / 10min', y='Hero', data=best_eliminations_data)
+    sns.barplot(x='Eliminations / 10min', y='Hero', data=best_eliminations_data, ci=None)
     plt.title('Meilleurs éliminateurs par éliminations en 10min')
     plt.xlabel('Éliminations en 10min')
     plt.ylabel('Héros')
@@ -114,11 +114,11 @@ def Graph_Best_Eliminators():
     
     
 def main():
-    # Comp_selon_saison()
-    # Graph_WinRate_PickRate()
-    # Graph_KDA_par_champion()
-    # Graph_Headshot_Accuracy()
-    # Graph_Headshot_Accuracy_By_Tier()
+    Comp_selon_saison()
+    Graph_WinRate_PickRate()
+    Graph_KDA_par_champion()
+    Graph_Headshot_Accuracy()
+    Graph_Headshot_Accuracy_By_Tier()
     Graph_Best_Healers()
     Graph_Best_Eliminators()
 

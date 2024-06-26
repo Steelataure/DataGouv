@@ -136,11 +136,11 @@ def champion_stats_per_tier():
         combined_df.to_json('Champion_Stats_Per_Tier.json', orient='records', indent=4)
         
 def main():
-    # Comp_selon_saison()
-    # WinRate_PickRate()
-    # kda_global_per_champion()
-    # create_headshot_accuracy_json()
-    # Impact_Up_Nerf()
+    Comp_selon_saison()
+    WinRate_PickRate()
+    kda_global_per_champion()
+    create_headshot_accuracy_json()
+    Impact_Up_Nerf()
     champion_stats_per_tier()
  
 
